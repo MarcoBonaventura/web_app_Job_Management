@@ -1,0 +1,6976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book_title name="Filiali">
+  <day_title name="Giornalieri">
+    <job id="1a056372770843daf4640434b7b7dfbb">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JEXRALDY</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>true</ven2x>
+    </job>
+    <job id="d5bc644da956b7a3ce05ba355f50a8c2">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JMAG31H</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="db4254be56d5bf1929a6c48d6194b631">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JOCEVHK</nome>
+      <param>come sta!</param>
+      <desc>lancia anche JDEE01HK</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cd62aeb1edee3cca36992e4a72c32d96">
+      <lib>23</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JOFXESTH</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="4ce6840016e3a4878a0cfdd4d09e7170">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JOCB010U</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2fcccf0ee9e4254536490023afff570a">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JMCSRESI</nome>
+      <param>come sta!</param>
+      <desc>variare anno a gennaio con quello in corso - se festivo cambiare date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ded76e3b6b635b3303d10b135f5fb2cd">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JOCB010K</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b40c87fe99150c2094953a4ab59775d0">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JTRXMOVK</nome>
+      <param>come sta!</param>
+      <desc>nel we deve girare il venerdi</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="91101591ca535b1131baf3d0d508c605">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>true</suspended>
+      <nome>JOCE024</nome>
+      <param>come sta!</param>
+      <desc>aggiorna OCDB righe ordini su ordini Gucci</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1059f8118a403e804dbc517b37abec7f">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JOCEVMX</nome>
+      <param>come sta!</param>
+      <desc>lancia anche JDEE01MX</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3f0e349ab0769211f74881f454f32f0d">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATM</nome>
+      <param>come sta!</param>
+      <desc>estrazione bolle e creazione nuove fatture SAFILO MX</desc>
+      <ven2x>true</ven2x>
+    </job>
+    <job id="958c8bdb78a370b547546796a4ef64f4">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001M</nome>
+      <param>come sta!</param>
+      <desc>31122050-999999999-Y-blank-blank-*</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d5dd85d72e4103221410f182e94fb18b">
+      <lib>29</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JMVEPEDI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="db63683e2861683a0e3e0fb8d3804a4c">
+      <lib>23</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JOFXESTM</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d8b30cf1518b9536308cee62b84525e2">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001X</nome>
+      <param>come sta!</param>
+      <desc>31122050-999999999-Y-blank-blank-*</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f263faba53c494993ae53f731fec0afa">
+      <lib>28</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JDWXIGDB</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="32418daa786264f50f675402ff94a5c0">
+      <lib>28</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JARCSOST</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e95aa31a250adfc50ae455fb88becde2">
+      <lib>23</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JMVB090C</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e7c834fe5b9521177ad281ef3c309bf1">
+      <lib>28</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <ven2x>true</ven2x>
+      <nome>JGCXCOOP</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="583d18cfd36bd195a48d400ba172674b">
+      <lib>28</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="07f14d22945b1a2d596beaab9eac7a19">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JFCX001O</nome>
+      <param>come sta! </param>
+      <desc>01011980 - 31122050 - ***** - *********** - Y - blank - &#13;
+blank</desc>
+    </job>
+    <job id="7fbdbc059f2b1a274cec347e21439756">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0589ac2e2f139028f29203138f5be697">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3e7b11491bf00e2570d86ab3f642e520">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="93d2c5b9c8a2e99d84e9321e9689149a">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0d57fe78447799129ddf0a35e34e0560">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="606d8a2914a2e33c6fc7b700cfd8cb7b">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d7fae29760935ea72d52765aee9800b8">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b0071d392997c407adac88e4e4f04b80">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cecd17f890d4bac49ef8619f8a081e87">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ad5dee6be127e4dfab92a6f9ebaa8956">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2799539f314227a2267ba9ae0b5efced">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d9c07c162ef1a13853fbf30e991f77e7">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="dbae5481898c8cbfced9c16e841cb9ae">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="524f14e66aac7827538dc3ab66a20762">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="324c76ed81a34e8c54543a3cf78c3f73">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="eefb1a07bdf8d3e27fe46e524c987a68">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7bfaebd32c3c24fbd8eed70f219b879b">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="80a4cc8b24f0bf77b8e23672536821b4">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JUNIFIL</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ec703801bdceb94fee0be356e06b3294">
+      <lib>28</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ce7891ac4ffaa9299c97eebdb797b35d">
+      <lib>28</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="67b71dab88d94150491f441c738a29df">
+      <lib>28</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d6668285420f2444fa1937869378e7e4">
+      <lib>28</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8d1e374d7e692441c68af031058fb5e1">
+      <lib>28</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c8c9235b12e241249912c44e32802187">
+      <lib>28</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6f2688d91c7473c8aa5947b4c67537b1">
+      <lib>28</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3effcfc765a05b9acc3f28b8c4a8d5b0">
+      <lib>28</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1001165aa1688098815f4cad2937e2f7">
+      <lib>28</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="794e796b2fbf698ba902d8758633159a">
+      <lib>28</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a67407dd28521c476922956994424627">
+      <lib>28</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="758f1507e9752a3459e48896d6eb141c">
+      <lib>28</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3e938c799bd530bf39807083874da0fc">
+      <lib>28</lib>
+      <macro>VGE</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3fc248fe0b207e5015f804e9021fc96f">
+      <lib>28</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cf3b8404d4abc05e76d8459875743628">
+      <lib>28</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="268893d758cbb05909ab5e97cd1575b8">
+      <lib>28</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="86ed78c9cee940f3905cdc2d5d606806">
+      <lib>28</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8d3e0748fe7bc4f03b014a8a372911eb">
+      <lib>28</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JDWXSVFI</nome>
+      <param>come sta!</param>
+      <desc>in caso di festivita forzare le date</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a99e340ee95b9827dd5a844db747da7b">
+      <lib>28</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f77ab0d024720ec068ea38acb6fee8f9">
+      <lib>28</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d3b6c8f767fd9e9e81ad2131e7a718c0">
+      <lib>28</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="56a1ae7e673ee5a99d9cacc1ea645760">
+      <lib>28</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b79f271f957deeef9c01975831d1e10a">
+      <lib>28</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ca30106c9a76a81ffc679cc96436ace4">
+      <lib>28</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9cdcc266f01382a82409e5b641065ac0">
+      <lib>28</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e0f9f547ccec68432f8fcb9ddf279f7e">
+      <lib>28</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7dd4fcac4cb4d1ac23be110c52df24fe">
+      <lib>28</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="edab977da75b478b8d0c087f743ea116">
+      <lib>28</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b393c9b095e8203679f4a72071af0b42">
+      <lib>28</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3fe4be35eefb46539116aa64b2c125ab">
+      <lib>28</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="db5e7ad9475eacc3145b16d3f651a91b">
+      <lib>28</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="45559d8a63fa3f5048a0707bee3391e7">
+      <lib>28</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="794fe3da269d87fafdcec549c42bf764">
+      <lib>28</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2611cb081d0b901aa3e2a4771f3bd8f4">
+      <lib>28</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3bbc5207aa9f66e7b63e8eff9a102cd4">
+      <lib>28</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0498be360cb33c838a20c166cc58a8cb">
+      <lib>28</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JGCXOUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="fc818efc6ccf8e63d0f914f37c00be0f">
+      <lib>28</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9541a923a72963bee6935a6449aa844e">
+      <lib>28</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c9dcf97b976dd1674a5fccf00a058b5c">
+      <lib>28</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8d57233c126f74880239645bf7bda305">
+      <lib>28</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e0504a1ff41ecce288644c4fc11b870e">
+      <lib>28</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6d19458ebecdc44859c345f14d66aa92">
+      <lib>28</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="80fcfaeb66565b1cd3e2146ac8f047dc">
+      <lib>28</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="645dbf55097db419af97437e4ffa610e">
+      <lib>28</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="94dc91397a6d02472aad4bcef17f9475">
+      <lib>28</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2a46c787f67cb91bd2806ceef3f41a64">
+      <lib>28</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e6a7b94984d6fd628231bd9b1bbd632d">
+      <lib>28</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3e8034b06cbdd28abd70cda7485d232d">
+      <lib>28</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e04e1d75f4dff12d3c8e529131250b51">
+      <lib>28</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9bd5a0684b016275926aacd31cf75a95">
+      <lib>28</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9269f98069e0462056174afb72148f8c">
+      <lib>28</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ffd6d0480103050bd0c905c06b781524">
+      <lib>28</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="935b6685d9bca6115abb69b372bdc619">
+      <lib>28</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2a571f4ae13e9c1cf30bd5913a866473">
+      <lib>28</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCFFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f060e2b1bb1af320814d92346657eb8f">
+      <lib>28</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b716d1a5610dc300edf7dc085bc764fa">
+      <lib>28</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="518443c1bf4691b0b41de3390d4c7ae4">
+      <lib>28</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c4257c8d6049ef20ba85903461c58209">
+      <lib>28</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="89f3e9230569a9fe9dd8e4cdecdbefe4">
+      <lib>28</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f4e779750b1a6d0fdbc20c1f57303f92">
+      <lib>28</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d463473b8764bb8c1f193ecbf9de776b">
+      <lib>28</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="935e3fd8218f9653c64c9de18987dd76">
+      <lib>28</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d69d2554f744105cd15970783acf39c8">
+      <lib>28</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="24f316bd631b477928ef8c1996307fdb">
+      <lib>28</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="fbf3fc3fb44d3295379fdf124504b8c7">
+      <lib>28</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ef004d50c20683ac2f487dbbc7f88fb6">
+      <lib>28</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="45be421c2ba8fd358828159b9d498572">
+      <lib>28</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="449d29b45a9d835547465b80cef8ab45">
+      <lib>28</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="52261ff8c0eb98267cccf770879af592">
+      <lib>28</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="30e439f55afc2b54b745ee5cfb2a5199">
+      <lib>28</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2ec001d5265fc1a46211794246f8b32d">
+      <lib>28</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="93dbf2d0bd8dc96859bfe6cb01c59c87">
+      <lib>28</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXRJFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="3adb973e045228281f6e23352bc8cfb9">
+      <lib>28</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="b4cbc40cf152dcb66d74549cee9ea21a">
+      <lib>28</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="50fe5c0aa69eec7c466e6bf3d68d6e86">
+      <lib>28</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="c5823f47419bb7ea4e93b6d73e28c3d1">
+      <lib>28</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="104e4bd37e35c5b6c2b1e21d60ab82c4">
+      <lib>28</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="021e0cee06070162d23d9a175b967147">
+      <lib>28</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="56ac94d33e0f933e7c3e28030f126af1">
+      <lib>28</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="787eaa8b58a89539da7ac205c95de764">
+      <lib>28</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="6ff9c63a315f3f480554a68f48563426">
+      <lib>28</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="e64a9ee4b2694ad99b106147f3115a6d">
+      <lib>28</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="50f861a0aca437442379837cea33ce80">
+      <lib>28</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="b56a3e9155c66854fbb037613cb19614">
+      <lib>28</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="9a605c289e166a56bba52d021d8ee138">
+      <lib>28</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="55b0cfd302f2151b4aa1e167af70b2fa">
+      <lib>28</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="67fe8507808a5e7ffe78c89459193835">
+      <lib>28</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="62589ca9e3e629b8a3488aac65329c15">
+      <lib>28</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="6d9dd4176e606aebdbddc3c9165c6f05">
+      <lib>28</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="b1630bcbcc41844537ecf38129cd98c5">
+      <lib>28</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXSHFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="0b97c89ec460a1c1144ebc14a90303f9">
+      <lib>28</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ff49b60983581c550ef773756277b106">
+      <lib>28</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="10387641cfdcedf3214c4da0cb53c578">
+      <lib>28</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ce2e696cbc463b6b53bad0a234d80c2a">
+      <lib>28</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c6177837c3f8a04ae59ba832fd9328b0">
+      <lib>28</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c6191b334f0d274e25a5edaf22e1e6ea">
+      <lib>28</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d21d7286eb136c0df73c5a3aba46d115">
+      <lib>28</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="56e895a10145e86b548e805261e23797">
+      <lib>28</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2438fcf2e9124cd6c48ff942859a4ffe">
+      <lib>28</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="38b64c3ea83a6f4cf424b24776430edc">
+      <lib>28</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6f61ed80ada238d042028828e961f6c0">
+      <lib>28</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8a073f1b21fdf93f3619161a02dd78b2">
+      <lib>28</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="44c5cbeecea3bf6f46c0b077968146c4">
+      <lib>28</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b3c25881418a6dd59d7e7a8d8de116c1">
+      <lib>28</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3dda98e472d24647d9e8c428f2c68b75">
+      <lib>28</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="fdb33090385e2509565cbcc886605b08">
+      <lib>28</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b47d683f85f935f6495554a22b3dffe2">
+      <lib>28</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="64c8a7c4618fdc8ae6253513190ffe7b">
+      <lib>28</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JDSPLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="72dac9b120d48226226be1a63c0c6451">
+      <lib>28</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cd06bbb16e669a115bef1cd8150f37de">
+      <lib>28</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7caf8a1bf6478e9fbc61920419f24b97">
+      <lib>28</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="53d34e18b575acb4ca45f9db832d94e8">
+      <lib>28</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d17fd77590490259ef8102bd4533e50c">
+      <lib>28</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ed4d89f3fb5b0681e4ebe283200fda08">
+      <lib>28</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cf7bd85e05f991d187d829c7fcf6141f">
+      <lib>28</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="70dfcbb262271e6aeafece0e66aa219d">
+      <lib>28</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d51560a64c88fe1d89f2b3abdb348ae2">
+      <lib>28</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8945197b5632502580faea965cd9d7da">
+      <lib>28</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="64ca1c8ca861c77b84d9f1917416f6dd">
+      <lib>28</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="da929c02b9dce4708def63fc5f80439d">
+      <lib>28</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="17aed252e8fa5d7c14d31f69bc872267">
+      <lib>28</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="24bfcb5054fd1a0b34d958da71b143f4">
+      <lib>28</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d30cd2a44d77d68767c525a1fef92b12">
+      <lib>28</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="986d5486ba5c671edca4d7eee686face">
+      <lib>28</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="5c8f829444b0b6e19f29b3033d6ccd08">
+      <lib>28</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a57fdb3fca31b18b0c4e17e047637b08">
+      <lib>28</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JDSDLFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3f98f426dc4dad99cd14ccf05f9adff3">
+      <lib>28</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f02dfac3d3714bae07cace38082a5693">
+      <lib>28</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="34a70342ca0b99c2761f9e48a2fa3e7b">
+      <lib>28</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c4e403edb68bc32491b315ea5cd4f6f3">
+      <lib>28</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="65fc377b4cec2ad5b9abfd84f0933bec">
+      <lib>28</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="31392df8714c41f26e00921cfb959c40">
+      <lib>28</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="854b8403d939d712a5304aecc131f172">
+      <lib>28</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9ed0b27f6c5a6960221b9cd6e568b723">
+      <lib>28</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="90a704f247db55cdd3e5b339b2c3fc93">
+      <lib>28</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a504787e48deb82258d8e4f2adc75afd">
+      <lib>28</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="771392c9bc5a28f5c74bcb0788046cfd">
+      <lib>28</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6b0603c0a8e461106da61647aa8c355d">
+      <lib>28</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3bc8c73924630c0182eac015792a0606">
+      <lib>28</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7de3ee3b79b118044f323128b6c8c9fb">
+      <lib>28</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0123256a4bd12f1d01e36043dc04c256">
+      <lib>28</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2a4a97ec8db849d490bafff56b4caf99">
+      <lib>28</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a9e983af8e3f9925e32a9a3f99f73cb9">
+      <lib>28</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2b1887ecda6f13c2dff28584685e280f">
+      <lib>28</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JDSXUFIL</nome>
+      <param>come sta!</param>
+      <desc>nel we eseguire il sabato</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8cce45bd7f68b9990e8e611464574f71">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JFCELUXO</nome>
+      <param>come sta!</param>
+      <desc>lunedì al giovedì</desc>
+    </job>
+    <job id="5da358faef560bb42f70b5bc7ef6968c">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JOCEVCH</nome>
+      <param>come sta!</param>
+      <desc>dal lunedì al venerdì</desc>
+    </job>
+  </day_title>
+  <day_title name="Lunedi">
+    <job id="3218018343405598f98dba385ac8a7de">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JOCE024E</nome>
+      <param>come sta!</param>
+      <desc>prima verificare disponibilita file Gucci in mainframe</desc>
+      <ven2x>false</ven2x>
+    </job>
+  </day_title>
+  <day_title name="Martedi">
+    <job id="1c9858cdab80e104576bc36ce9637473">
+      <lib>25</lib>
+      <macro>VXX</macro>
+      <suspended>TRUE</suspended>
+      <nome>JMARTEDI</nome>
+      <param>come sta!</param>
+      <desc>prima verificare disponibilita file Gucci in mainframe</desc>
+      <ven2x>false</ven2x>
+    </job>
+  </day_title>
+  <day_title name="Mercoledi">
+    <job id="f9aaa45b1f9cfb0201e1f2eb2722d044">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JPRXIHK</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d3a200e6170063af1880dc7ce5805a69">
+      <lib>29</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JSKDELS4</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+  </day_title>
+  <day_title name="Giovedi">
+    <job id="66a44e8aeec8c63c45ad856bd85f2a23">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001H</nome>
+      <param>data del giorno-999999999-Y-blank   stampe in classe U -&gt; NEA6</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="76e24d016f182ab8c90acb6ab279f827">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JOCXRMEX</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f578359f402e185a3141df1633f5c9cd">
+      <lib>25</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JOCEERIP</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+  </day_title>
+  <day_title name="Venerdi">
+    <job id="a08b7254f3357fb7cee7495ff1f1a424">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001D</nome>
+      <param>data del giorno-99999999-Y-blank-blank-blank-*</param>
+      <desc>estrazione fatture da contabilizzare</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="be7f58952db80396d0e914029750207e">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001E</nome>
+      <param>data del giorno-99999999-Y-blank-blank-blank-S</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1cf6795a8fd9435c9825ac879942369e">
+      <lib>20</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBTFG</nome>
+      <param>come sta!</param>
+      <desc>salvataggio FCDB e SVEP</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="69db83a15ff0436fca38779d36f92586">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JFCX01E1</nome>
+      <param>data del giorno-99999999-Y-blank-blank-blank-E</param>
+      <desc>estrazione fatture da contabilizzare</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c4a7cc70931c0dc4053c971d66a13986">
+      <lib>29</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JSFE200H</nome>
+      <param>come sta!</param>
+      <desc>nota</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="18ee817f7caf73cf42643b065408a643">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="488d0a935a59b1d902e579ee38363224">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="4b46f3bd7496ea6688ab515462fa7d3f">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="590090758dd4e24865cd563257506bf9">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="07cdaea3b84e510a024e8fac045a573e">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ff2fddbeaef68e7211af5201c1d343f8">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="baf9e2bd11245fd749b6bb7951b0a366">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="68f6575e053d986b0c669d57249c8c19">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="48de3d739d3bdb3001d2605786e354bc">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e2f7b167ce3477a71738038396bb0cc4">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b775342747e0f63f634dc866f2d4d861">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e24eb812fbeb7301ee266c9b5e2df50a">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="5770a18d37b392749574abd7b8619d5d">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="070ecbfb9fe59a959a24adb267817c66">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3c2f482ab3248dc5d1891e04f0253361">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f9bd40ac17585507fca3504a40013dcc">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8cbdb72febfbf8b1f4297c69ab79eeb9">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="57d2f4c31a67d393dc22869436566531">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JMISABL1</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+  </day_title>
+  <day_title name="Sabato">
+    <job id="f41fa7b74eb81efe67ffebf787efd1da">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1D</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b9b89eed20c26bd74736200ddd7e9a9b">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1D</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6ef2b2409f63f54156a1d94328211de7">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JFCB030d</nome>
+      <param>da lunedi a sabato - N - N - N - N</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="53a4df211f190119043bc6a7958e508c">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JOCB010D</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9157219621255b1bc60be419bc889952">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JOCB132D</nome>
+      <param>domenica scorsa/sabato - inizio anno/sabato - domenica scorsa/sabato - domenica scorsa/sabato</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="5619dc691a482e5a4425936bfcc773e3">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JTRXMOVE</nome>
+      <param>da lunedi a sabato</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b257d1a6b8eb9330b10ca96cc5e95e33">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1E</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0ad63db0f41ba80fdba6400e6a013839">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1E</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0a24bb1a1038e822adde238b543077fc">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JOCB010E</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7c6a3acdf23dd8530ac04378171d2a4a">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1W</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b4012ae910ae9c808a3c0e8fd8285ce2">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1W</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e0d1143bd6cc65caaa3f93329abba4c8">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JOCB010W</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="4f4f7c5fbf3c71b5e7662678379a9f03">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JOCB132W</nome>
+      <param>da lunedi a domenica</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ca47acaa6253222c1b4a6c787ce7319c">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1F</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7d26b1ada57e0b99554f7c561dc63d6d">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1F</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ced9e9e9da85a52e4daad4e335385c64">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JOCB010F</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="5d9ff79aeec97c87a09ea3b5d0593388">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1B</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a83327cf42f59fce8eafc1e08ccb9b60">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1B</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="db8d34c9e2b1b885aa78aa73194c5af7">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JOCB010B</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1f3c9f2b0a354a34746eb0642e6b2673">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1H</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c43d3f087149c6c5445292142fda1846">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1H</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="73283500d588ec035763b59bb975a6ac">
+      <lib>23</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JPRXIHK</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c0f118520723849b290dd96dcfbaf5cf">
+      <lib>29</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JMAGHK</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="74fa4cd26df8232fc39ce92f37839243">
+      <lib>29</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JIIXIT01</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e59d5f14f6fc0d681863b73e3cf6ade9">
+      <lib>28</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta!</param>
+      <desc>nota</desc>
+    </job>
+    <job id="5dbe9cb9d341d05d824aa55785e1c0fd">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>true</suspended>
+      <nome>JOCB131</nome>
+      <param>inizio mese/data del giorno</param>
+      <desc>eseguire il sabato piu vicino al 15</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e8cca9ca03f3fada0982885c7c5b4069">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1A</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9da925270d306069795e9ebc2d7cd482">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1A</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6772b055587d088377d297b55c4c4a93">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JOCB010A</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c1660f0beedbb5b8a23f9bc1b9149e0e">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JOCB080A</nome>
+      <param>* - * - 010180 - data sabato - DT - *** - PF - * - * - R - * -Y - N - N</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="46d3d9c083bf7f02c603516b50b6aa41">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JBCRPRTA</nome>
+      <param>domenica scorsa / sabato</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a19597ff19b141f0ec1a4636e681f3e6">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1N</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1efe779d6da8a773106841fabe2f57f7">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1N</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f2a2e16ff061823db68b6bf275d33b9c">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JOCB010N</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6887e51f2c689284379a7b95c11bd7e9">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001P</nome>
+      <param>data del giorno</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a498a9c62bab6269a5cafb2b8b2f3be8">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1P</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ea6f5dcb2204926eff547821b95318e9">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1P</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="38ddf9591d30cc26a221c03c224aaeb1">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JOCB080P</nome>
+      <param>* - ** - 010180 - data del giorno - DT - *** - PF - NDV5 - * - R - * - Y - N - N</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3956594b43d852544b3aada2b4b7efb7">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JOCB08PT</nome>
+      <param>*-**-010115-data del giorno-dt-int-pf-***-**-ti-n</param>
+      <desc>nota</desc>
+    </job>
+    <job id="3f6c16c11e148dadbb6eaae2bc1a68d0">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>true</suspended>
+      <nome>JOCB010P</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e3c7cb12ef0ac51508b2eb2e638a2c07">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATU</nome>
+      <param>data giorno - 010180 - data giorno</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3c38a8a87c54f8fca6d42b567c6a8d09">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001U</nome>
+      <param>data del giorno</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="af2147a3120e392c92ced390ccfdb735">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1U</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="02fe76baa16e3463196763aa31cebb69">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1U</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a823485b29ec33047a6f7395b8812307">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JREB010U</nome>
+      <param>data del giorno</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ef3c985c3e13d466e985d22078ecf3d5">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JOCB010U</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0c68977187370fa724e719dbee424555">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JFCXEDIF</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="28d4e1018f12fd89d2d92bf5f7bd71f2">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001C</nome>
+      <param>data del giorno</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a8e9cfcea4bffc79d3d97bc7d58f863e">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1C</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c572c57bc0dadbf7edbbd82e0cac38ec">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1C</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0f8b945e2bcf7bd2e9bb3e17e79415cc">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JOCB010C</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a97b1060cd90cda95b9dd72e04cb83f2">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1S</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9ba05402184c4b0d340904a2bf057222">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1S</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e5d5a6d26765c70dd4be4e49c705ede6">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JOCB010N</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cf4b426b68c17461d2f5afa730c9051a">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JOCRST1G</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c368163bd7cb3ec04e30000ad3e6abb2">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JFCRST1G</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c947ce494362a8e7122549b084b59e9a">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1K</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="dfcfcd5cf8b61d4c04c68a68f225d37d">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1K</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9a79e787da0bae16862b5c3c849dd017">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JOCB010K</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d8bab681e7a19c40e89ec3785c37c738">
+      <lib>29</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JSFE200M</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0436d5bbb8fbed41bf35ef7b9e97e067">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JFCX01SM</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8627c50db334893a2a86c9f1fda4aa2f">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1M</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1cfc70d92917f73b61c93d435a943077">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1M</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="54bc2e6b9710cff3e16be117c87fb6cd">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JOCB010M</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0ed6c574454a5d86c4e0c7eb1b255928">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JFCEFATX</nome>
+      <param>data giorno - 010180 - data giorno</param>
+      <desc/>
+    </job>
+    <job id="0de238fbc3b361850a6aee97e960b4d7">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1X</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8b9e2309572c301ee73989c1635632f1">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1X</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b832967b7a433eefd34dd431e456ac4e">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JOCB010X</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="da2d642a48b18b191ea8f042c07bcfb1">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1Y</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="99523d99b1141d42a79640ef125c3dba">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1Y</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="be07a944623cc9dc91016bc153f5ab41">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JOCB010Y</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2c682426ae642f659505ede2fa8d343d">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JFCX01SO</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="733c8610cf7a083cb2cf42659a6cd343">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1O</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ed16013b5c926141ddb8364f07fe9d64">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1O</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d5e84ef9bc683d50df0459b4aecc14a4">
+      <lib>23</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d8d26930c548e2f74a132b7a1c7ae554">
+      <lib>23</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d1e5d072e4982d756ea1fb4a0b988a7c">
+      <lib>23</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="09f8950a30ad23cf9f077cd30f11f180">
+      <lib>23</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3c1526fb708868f94253a842370d0fb8">
+      <lib>23</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8354a03f30cce9b7b61a4fb57794a5a9">
+      <lib>23</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="5488e410fea647b7c2924243fb93bf6f">
+      <lib>23</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0249cb78c13d0c5cf3f5c8aa34ab4f8a">
+      <lib>23</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a2ab1aadc7f184ef603767b2649f8c76">
+      <lib>23</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a0dc7d99dfcf53f08c1842758f0e5902">
+      <lib>23</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="94048064198caecb12ba3dac081b197a">
+      <lib>23</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3dc31e921dbafa436ec5b25022e8e281">
+      <lib>23</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7c115954b04042cfdbdb3930b0a3aeae">
+      <lib>23</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="816cb68b30ccff43f7de6f0e2ef67a39">
+      <lib>23</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="fa0f211efcee3ae3e00ab9e6196daf14">
+      <lib>23</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2c09e2635f1cb107b2133a8f45f5cd2f">
+      <lib>23</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6f5b38768410e431505ec8b4bca4ae14">
+      <lib>23</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ec9b91f552d564cd9da1c12fb20c7568">
+      <lib>23</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JPRCALFI</nome>
+      <param>come sta!</param>
+      <desc>primo giro anno data&#13;
+validita 20AA0101</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c582c3cdb37b9faf631eefc231d17c0e">
+      <lib>23</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="295ca8efab1eb30400b37ac71364ddbc">
+      <lib>23</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="502352267d931d6092474cb28540dbce">
+      <lib>23</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a1c7131a6ff47929a926ef5d48daa485">
+      <lib>23</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ace6bd4be65bcecfff80102f62b2aeb5">
+      <lib>23</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ef5e705849cafa6500c7dfa3712ac77c">
+      <lib>23</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f5f5c3514ce447f3b6a5dcefc6593cfd">
+      <lib>23</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7b6c1d959e0fb66113dd99317a6d7846">
+      <lib>23</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="040b0bab30cfaeb2676a70bafe5a3374">
+      <lib>23</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1c56249b5d51906239e4b51a326d9dab">
+      <lib>23</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3d639f2defd5101d5667fec127e6ecf7">
+      <lib>23</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="31860e7cc059ac69f22f074cefdabbf7">
+      <lib>23</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="854cd4681f0bb119c6139d6f5aef5573">
+      <lib>23</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a05189192ff5826af03c0a35a8d4e0c7">
+      <lib>23</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7f04c0fa7cc09fc474a7e90d69774677">
+      <lib>23</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1a44e649a7f001106c9e8545c1c485ea">
+      <lib>23</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3b5a1961c0485f47a5566cb78e1332a8">
+      <lib>23</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a9bdf6b9bf97afe6f97ae9cd65b5e837">
+      <lib>23</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCALF</nome>
+      <param>blank - S - Y</param>
+      <desc>primo giro anno data&#13;
+0101AA - S - Y</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b975f283617a1e691a39cd3775b070be">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e4a86843c86fb91c6fa8088fee095f31">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2a17a9f72b04852b1569cd0c5bed66f2">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="55a026c1ac0df5446440db3aca526c6c">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="24d219896190ca5e2fdcd688fa3ee957">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a5a4231c58d373d08091287be09e83cd">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3be7cbc8b99e7c10775111c6dd0622f2">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e40cf71ecad742c3b77bad0a64646515">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b7ee8eef53e7f79e8698e6f258483b0b">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="35a43e0811eb6b57022b65053abd58e7">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9c2bb08c654d7ecd8076bdf6d79c1e38">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f356a018fde00457aa0038ecd222bc2a">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f8fbe1a6df608ee0e50bcb1205e40177">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e7260c89a81ccf3f722a6251b0c2208b">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7bcdaa3260af07b4b3c2c7cae226d721">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="79cf3d93862c33a27e49b59937396676">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7734fc5456ac6aa1d44e6adc8a57542f">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="bdea8fccd2608f70c29f1b3c6031bb66">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JACECOMF</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="864d890f3a3edaa74850e71c619224e4">
+      <lib>28</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="13da42184a355e055c13877b5df83f35">
+      <lib>28</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2981d51fae7d644efefac6e9a7b50623">
+      <lib>28</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8f2e72d573e89f0823fd8d6d5ad9e415">
+      <lib>28</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8ed54527a48afbcd7c7b6cb767e21244">
+      <lib>28</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c3476d644251e7da1741ed6ad5b20a18">
+      <lib>28</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cd611249e8f7e00a6a250a13450cfd53">
+      <lib>28</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2d1a1e2f63faec83f5887554985d475e">
+      <lib>28</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d31f050eeb175a1a05b9ae032228824a">
+      <lib>28</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="89e86e21415d345f4e95ef26abd19ded">
+      <lib>28</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="847dd94aa6ffa4d931f4d37cb88340c6">
+      <lib>28</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="816883fe7dc47515019125a067077ee0">
+      <lib>28</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="88a279ebebf3d053affae771e9564a37">
+      <lib>28</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="749cabeefcd9218a9db48e2d8cd35677">
+      <lib>28</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e2ee777991960e99c2c0592518500afa">
+      <lib>28</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6ac4b63e57b8c333672eb1ac6c121949">
+      <lib>28</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b02c8526c57750be1fa876213965fb34">
+      <lib>28</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c588cdbe2ae3dbc0ed3dc32f2ae326ba">
+      <lib>28</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JGCXSHFS</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6e325dcd55208affc038545fe35e5d55">
+      <lib>28</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3329c8269e33a4aa487e773df40a20e4">
+      <lib>28</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b781310962ddb28ad7db32a90cb0c2a6">
+      <lib>28</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0b9f08348684c26f123c105660a96dba">
+      <lib>28</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="5837e37f787302e9e83326de5979167c">
+      <lib>28</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9373754a21f08307279acb07b0791880">
+      <lib>28</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6fc776734fd41c12f3b6ef2491f42cad">
+      <lib>28</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c78a9e66a116288db708a3f33e1c1c82">
+      <lib>28</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2470bbc383989a4cfa80d73ead5a1858">
+      <lib>28</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="820de71b993d5aff0dd5ddc39f637043">
+      <lib>28</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c67b6f8315dcca32533b7f21e95ba166">
+      <lib>28</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1aff7d0ce69617b497a58cbfbbcc61c3">
+      <lib>28</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ea52234eb6fb092707220c41525d3958">
+      <lib>28</lib>
+      <macro>VGE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7103af606710e9a2292e25ef0cd4342b">
+      <lib>28</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a9b29c72f2c9b80e6078fcb99ca8ec3a">
+      <lib>28</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e654214dc8c6d276b42ee305c4c1eae4">
+      <lib>28</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="de5717c6f198edd80c1871fa0f55427b">
+      <lib>28</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="179ce995800b156182b836cf22f56f05">
+      <lib>28</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JGCXARFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="eb4378dc428c4a258c10a181e22a3295">
+      <lib>28</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCUFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2eece6b455698929ff6ec378060c06ed">
+      <lib>28</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCUFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="dbe6b7fef74726974ab2442062099dab">
+      <lib>28</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JGCXCUFI</nome>
+      <param>come sta</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9a13fb8ade5a12275ada1cb5cde44043">
+      <lib>28</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXCUFI</nome>
+      <param>come sta</param>
+      <desc/>
+    </job>
+    <job id="867ed5efcf8019092adeb8996de0b76e">
+      <lib>28</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXCUFI</nome>
+      <param>come sta</param>
+      <desc/>
+    </job>
+    <job id="2ff40c21727d5db36db3597e10568725">
+      <lib>28</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXCUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="9ec2b697a41e5faa4406977aa9d39151">
+      <lib>28</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXCUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="22e273931609abb2eefa557552fbb3fb">
+      <lib>28</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXCUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="664d5523fab574b651438ae1f624de2a">
+      <lib>28</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXCUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="fa85afa7740331a2ff666c758b5f8a81">
+      <lib>28</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXCUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="f34cb9bde16119e8631ea58b0d4b0b12">
+      <lib>28</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXCUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="5931420d4d180d1be55ed41a246c273a">
+      <lib>28</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXCUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="f641ad62b4e9db48f7e3e99a381264a9">
+      <lib>28</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXCUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="ae7f7df88786c12c01a02902002cae73">
+      <lib>28</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXCUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="e20b7d9175c6cb28d35521fc64e5b989">
+      <lib>28</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXCUFI</nome>
+      <param>come sta</param>
+      <desc>nota</desc>
+    </job>
+    <job id="e2a520e1be1b57d7a5a60b52ff1da948">
+      <lib>28</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXCUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="9dc0a34a7265857fa0e6cf006d8e84c5">
+      <lib>28</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXCUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="e18ded167d5220f8fd9ff8776e7c32c2">
+      <lib>28</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXCUFI</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+    <job id="28576f642a61adfc1079ef98768d7a27">
+      <lib>28</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JS51B</nome>
+      <param>come sta!</param>
+      <desc>nota</desc>
+    </job>
+    <job id="d146258267c9122106602bbea6dbd2bb">
+      <lib>28</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta !</param>
+      <desc>nota</desc>
+    </job>
+    <job id="c1ac316f36040f2919224d60a043a147">
+      <lib>28</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta ! </param>
+      <desc>nota</desc>
+    </job>
+    <job id="7fd2ac673382c478ed5a41e9954152a2">
+      <lib>28</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta ! </param>
+      <desc>nota</desc>
+    </job>
+    <job id="1825d8b14a8611674a36c3d8322a71e7">
+      <lib>28</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta ! </param>
+      <desc>nota</desc>
+    </job>
+    <job id="e1652fcaa849107541f338aa258f05a9">
+      <lib>28</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta ! </param>
+      <desc>nota</desc>
+    </job>
+    <job id="cffcd4ae830a600bbb440ad3bec2245e">
+      <lib>28</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta ! </param>
+      <desc>nota</desc>
+    </job>
+    <job id="e9661a1d30ec99525d97fcc213ad087a">
+      <lib>28</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta ! </param>
+      <desc>nota</desc>
+    </job>
+    <job id="ea1ca8337d1f6438bb82fbe244b0c5ee">
+      <lib>28</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta ! </param>
+      <desc>nota</desc>
+    </job>
+    <job id="e52128308789ed6a34d9240bd456d4d0">
+      <lib>28</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta ! </param>
+      <desc>nota</desc>
+    </job>
+    <job id="e22098d7fddef703eae2c6d499c83b77">
+      <lib>28</lib>
+      <macro>VCH</macro>
+      <suspended>true</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta ! </param>
+      <desc>nota: è già previsto nel giornaliero e deve passare solo al sabato</desc>
+    </job>
+    <job id="84888a465009441b481cc64df7f06efd">
+      <lib>28</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta ! </param>
+      <desc>nota</desc>
+    </job>
+    <job id="e9fd048394e3c7078001712966bd6ccd">
+      <lib>28</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta ! </param>
+      <desc>nota</desc>
+    </job>
+    <job id="e851a97c81a391f14c637c2fd1939c62">
+      <lib>28</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta ! </param>
+      <desc>nota</desc>
+    </job>
+    <job id="217358e8f7383550bcdb9aa22994f1da">
+      <lib>28</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta ! </param>
+      <desc>nota</desc>
+    </job>
+    <job id="37379a396018f1fecca99b32ce1427d3">
+      <lib>28</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta ! </param>
+      <desc>nota</desc>
+    </job>
+    <job id="cc172ab34824d5f3b6e06be712d79fda">
+      <lib>28</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINFI</nome>
+      <param>come sta ! </param>
+      <desc>nota</desc>
+    </job>
+    <job id="5e42dea4c5396e6357f0c9697a9206fc">
+      <lib>28</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JFCMIGR</nome>
+      <param>come sta !</param>
+      <desc>nota</desc>
+    </job>
+    <job id="18a346a0b01c317babd83f38803778dc">
+      <lib>28</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JGCXINVP</nome>
+      <param>come sta !</param>
+      <desc>nota</desc>
+    </job>
+  </day_title>
+  <day_title name="Job_del_15">
+    <job id="90310860af3e36c44a3fd586f0be8950">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATA</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b96952d9552bb5c4e449ce7a888213c8">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001A</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6705e93b7ebc66553b925d0bfb7229ae">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JFCRAUS</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0eef3b6508eb82d08083395f92e4c39d">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JFCR060</nome>
+      <param>da inizio a fine mese</param>
+      <desc/>
+    </job>
+    <job id="76776ef2354dfc4181c87f783079e010">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATS</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0e53236ae5e588276874470dda6383a6">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001S</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="52f068977ebdaede9b25fc0afe9d4412">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JFCX01G1</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c97ed522797c9282e0cb34da97ab4a21">
+      <lib>20</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JFAVBTFG</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="780480b9df77702008fa737ec0596ef0">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JFCX01G2</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c97ed522797c9282e0cb34da97ab4a21">
+      <lib>20</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JFAVBTFG</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="30f34fd4ecf9112c2b49b736e30dca2b">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>true</suspended>
+      <nome>JFCX01G3</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b057378a542727de7e691eaf83da6fdc">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFAAF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="be9366fc498dbf606edacc7d1ac383c0">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JFCX01AF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="eaa723637fabb22e95bf95eb23a89162">
+      <lib>29</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JIIXITHK</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+  </day_title>
+  <day_title name="Job_del_10_e_20">
+    <job id="4d4a72941d244f0064b7e2b3ca3d42fe">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATW</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0291a2465d94d01ca1411c161cfb7b98">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001W</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2f03a4c4e0bbe4a66d9274a938741d23">
+      <lib>20</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBTFA</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="79d0055cd1edcf76c0952b883ef3007d">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFAT3</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="470b0e5c401e39fd8e7092fc057c638f">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCX0013</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2f03a4c4e0bbe4a66d9274a938741d23">
+      <lib>20</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBTFA</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="4bec496db000a9332ce680fda850c8df">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATK</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3e65b601466219dafcd65585315e846f">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001K</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2f03a4c4e0bbe4a66d9274a938741d23">
+      <lib>20</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBTFA</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7a30fad4bce5457fbc8055a7b9c34038">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6c888c978cbaca9ffc0d533d1b70dbbe">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001V</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2f03a4c4e0bbe4a66d9274a938741d23">
+      <lib>20</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBTFA</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="febca7696c7814fc0d20209d57ea546f">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFAT4</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b9081c6afb7fc9b7004f69fd9b5f598d">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCX0014</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2f03a4c4e0bbe4a66d9274a938741d23">
+      <lib>20</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBTFA</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1f6b85ca213ac98224ca3c98a84fa31d">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFAT5</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1997703b7e807a6b5cbc36342a3e6214">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCX0015</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2f03a4c4e0bbe4a66d9274a938741d23">
+      <lib>20</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBTFA</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e1a8f57f7c0071b5030199b10caa50af">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFAT6</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7d1c4dd60b1bc015d3fa111f8b6c275e">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCX0016</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="eb31cfe7ec49d02648cfaf3283f67eb7">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCRSWE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+  </day_title>
+  <day_title name="FineMese">
+    <job id="1587c2e38b371fe247c36795e9b582f3">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JMVEM0PS</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="078088347780e763b72af23e52688c74">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATD</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6b8a08cfb4e7703d170381c5a445af77">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001D</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f1b76bf369e1017681e0517f80744026">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JTRXFIFU</nome>
+      <param/>
+      <desc/>
+    </job>
+    <job id="e75e8336b7ccdc05e0d7ab5199801b3c">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JMVEPSNF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="4c59d4c38a358b2a1b0298e9f040fc28">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e95df35580dd99c91be41915f23488b9">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001E</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="11547c0d8ccfb63c847d51fe330025f9">
+      <lib>20</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBTFA</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1cd0413f2429734d59eb885f80be52d3">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFAE1</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f727bcfa604d6ae1a0270541e8c9d636">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JFCX01E1</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="84167fcdb1fbcea1df9541f76da4f75f">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JMVEM0SW</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7aaf2730617ac63bbf18e028b1a60080">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATW</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="5225b9bc134fae88ceccd1d10b1e16de">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001W</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cc41c877435a5d6b75c28024e07c4da1">
+      <lib>20</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBTFA</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b7ab7fd726c9baf9e705a7f9acea8d8e">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFAT3</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="70f1cdcdc9dbd8316e73a04705b4459a">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCX0013</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cc41c877435a5d6b75c28024e07c4da1">
+      <lib>20</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBTFA</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="888ce9a05af6c8bddb272b321817c310">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATK</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0907216aab5b07dca8c52e6e67d144de">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001K</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cc41c877435a5d6b75c28024e07c4da1">
+      <lib>20</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBTFA</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="96a138eddc881e622754f99f9ed27061">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ff799b7efa9e82b068b4990a1bb1bb91">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001V</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cc41c877435a5d6b75c28024e07c4da1">
+      <lib>20</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBTFA</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3252afc5acbfd430a49be38c68abb0bf">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFAT4</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a7478f494296198963681968e3da23a2">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCX0014</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cc41c877435a5d6b75c28024e07c4da1">
+      <lib>20</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBTFA</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0e9c792526fb44770289676018bb9304">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFAT5</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0503e52f7c8315b745a9e53ebf7031b8">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCX0015</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cc41c877435a5d6b75c28024e07c4da1">
+      <lib>20</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBTFA</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="52e542f2e3d216c1332b3f4d01663604">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFAT6</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b1dfaa83d40b4b69b99301f8a2350647">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCX0016</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="4c64e913e9315be40f0c6f61ad2b11ea">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JMVEPSNF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ed20400cdc907bb43eacb50f1a7e0c1e">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ef548e98ca026f1afdbab451df8a1ddb">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001F</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="96eedef2847b8dfd4ab2002a689d888f">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JTRXFIFU</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="38944eaca794b109be5f18e264b363f6">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JMVEPSNF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b088ca625fff714e959daca043c3c029">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0d0ff47e4a75716e89c399aab34fceed">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001B</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d7d0ad2c942f563a9381bf97d58bda84">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001H</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="10550c9dbce19fa6ba31d531b205bcf4">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JMVEM0PS</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1795c262c76b045a2012cd80bbda8a74">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATA</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7b64f12e8b85723aa73c07c60445bd21">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001A</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f0b2b1945a9bec28a203bee591d37f11">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JMVEPSNF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="60ec4d1570076f5b9e9c64b0cd1b4a96">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATN</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3bf2b9285d00b50f55f4745faa1d6ff2">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001N</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="01754bb6b390eff9e4bace7c10ab6959">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JMVEPSNF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="82ddf8e9af511fd49227f9edf23031b6">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATP</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3ddaf5aaa7e68d34d86c792bcba94395">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001P</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7a0e626734822b072a65bf9149fe83e7">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATU</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="65dd19e97af0ab501e84e46d4383e0db">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001U</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="bfe502b2ee60acc8aa3e894b8369a691">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JTRXFIFU</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a39472897c67346c001633843bf45f75">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JMVEM0PS</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="587863d9d2e5b55334ff0076eb9a4e05">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATC</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3c577701d71c70a684622a67b4710a92">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001C</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="68e5ed4cd114e5ff78eb324f8bfc4526">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JFCEPCOP</nome>
+      <param>come sta</param>
+      <desc>nota</desc>
+    </job>
+    <job id="9c3c86bf21aa2a4baaeaba1643feb924">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JMVEM0PS</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="277d314eef1a0b7629f64eca01f42635">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JMVENEGA</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="63cbbbc65bd573ce9842f4457c4380d0">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFATS</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="573f344c74e5e8e846e7caa2c4edc773">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001S</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="032fc4b6e1cb98752c4741f62a87225f">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JTRXFIFO</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="41363bd61fde168593dabbb88cee8172">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JFCEFATX</nome>
+      <param>data giorno - 010180 - data giorno</param>
+      <desc/>
+    </job>
+    <job id="380a47acdc60f1bf6ab3bb12b76fa1be">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JMVEM0PS</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6be12e10f616185733f5fd372c79da50">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JFCEFAAF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0f6ad65b6f0af309208b9cac4edddfcf">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JFCX01AF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a529eff32f4386d36013b25ad5603adf">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JTRXFIAF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3d946f2c50f4749ff5d4596d586b65d8">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JTRXFIFM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d5525097e99279b2fcf7c44f9c568d58">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JFCX001Y</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+  </day_title>
+  <day_title name="UltimoGiorno">
+    <job id="49470b80080e84b0fcef2891e39129eb">
+      <lib>23</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="4df16418f6d7532de60b0727e7611dfc">
+      <lib>23</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="72e1bfcbeb8dd2333aa648ff67df36ef">
+      <lib>23</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e3d9a8399446e5bcf0c776ae903ea3e2">
+      <lib>23</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f349e00add28e8204fde060c316abfd1">
+      <lib>23</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="49bdb0f6ad75f37a4ad379da9f7d1da7">
+      <lib>23</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="fe77145aa323a61d3b1d629c844c857b">
+      <lib>23</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="075179861cb942aae5beb7796d078cd8">
+      <lib>23</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="abd4850246d563d6cb121e311b7dbda3">
+      <lib>23</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3e1eaf8cf02f03615a2a5805f35c3626">
+      <lib>23</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3e59cc45ce8684b1d560544629903095">
+      <lib>23</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9c0dcaafc3834383007d945ec5a5745e">
+      <lib>23</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b0f93461c9c7a2fbe1de6de71210b8f9">
+      <lib>23</lib>
+      <macro>VGE</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ac4329b07636e59fec2ceb59d972bfc0">
+      <lib>23</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a0cb1848622f3c123f2e7a8a73d3fe61">
+      <lib>23</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2d47f8a53415af319e55cf2e8c4a1b5a">
+      <lib>23</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7f2e2ad4566b64a9dac9b9c229d44cc5">
+      <lib>23</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6f6ff0ad513376896dff6357b9f4c472">
+      <lib>23</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JTCBCONF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="406cbba366aa193de7ea4b91cbf6d28d">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ad2ed934d5e7b098e509a25bcef01ea6">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="710b0dd0f45fe5d527e5ce2bc6c985e0">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3910f34042ac46d6cdf9f2aaf38bf9cb">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d0f6e33d5d02f794d9efd88c47f08673">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c2d3ba10d86419405340d1d02a8630d3">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d5d8f18b4c1f93b2bf39703e3cd29d89">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3d30bd06a0ca263142ec1658f4cee5e6">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="023796339696e2458711f6fdc24ca536">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6eb16bb688582b349a5748e686d3261c">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="995e9d75ca79535ef22fad5a196f84a2">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9eda2c202e20d8bdb041326c6ea8f901">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f04f5398c779ea22240c8c329737701c">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f64c6d89c80797994f08169da8332940">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cd353f4d60d9181547f7f05729d550c9">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="def3207c641e5488e977ab3c424af8c1">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="044f208cfd0a53cc002aecbd0cf208e5">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="393fff06bb8dccabbd05b62969433628">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JACE010</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cdaf280d457654573e895efbcb83a8c5">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="20fb6047b9ef861c28c0ef41ea59bbe2">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3ca39e0ec44ebce60cc7a21ed453d568">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3ab69836572163d973cd55c498edcc77">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a3bd140c24cfbf1664d333c49b82acbd">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6968c9faeeb6bc2230ddbeba2bdfd25c">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a12fece45585638002f7d89880e25180">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0433dadabd322a344de37355bc84f1ae">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="175e86113934d774ba022adac37a079b">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="42474839c7b94a21c3c9f9cbf1765f0c">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c151a634fd7a9c274f3677267d065574">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b0e3e26ce24adf2853e7bf9a57e08366">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3381610f54c2df62f842e51e45cc5a74">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="83460db2ded3c31c3f619c2d25cbdb47">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="dffec717414c366ff83198448fad5858">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9b52b1e7acc91f98138e309ea6594def">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="75f80386fd710a535779231fada3868d">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f08c449a06028c167acc98fa3bced58e">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JACE020</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7de92cb7028aefd766708cf1e525839d">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7bd782a060ae62c7f7497c26bb25e700">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="88fbf022259ae7a027b9fe5de1bc1ee9">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="4a58550f21295fbf458aaf85a277253d">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="fc19c9b21aa32c5f2440ec210684f334">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0bbc66418507aa89915129b880592c03">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e15887a257c2fb23f2e6292b9b1f5616">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b8e9d1fba1e4f99da648c12cf1843103">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e7ac151e11405aaaf7f35a070ff70c1c">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8424c19a602429c704b3755764792a20">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1860537002b468ca72d0e06e7007fe9b">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d3f03903ed855797cbe3ed454a4dae9f">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0f81862db872f3b2487bf4a78bcc348c">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2e7eaea416a0af117128569dd1ae9251">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="bcc0c047a4b3e9004181b43daf5c2dcb">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="48655a29f3722391298cd2761f9daccd">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="dcfa3dacf3334ddb6f044f4668d861f8">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f24895da2123fe9ad7bf70aeff22c182">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JACE030</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6d026256b68433fa0b24d7ea0b2e5510">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e4be9b2a917e97e617ea18dc2f2b8445">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="19e6bbe13e08a5a80356f4caebc51b02">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d408b28cd6b3557eb138eba996d457df">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1f480fa17f4fd63c246da45f2b22193d">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8f33cd5dd7e2eb88973449c3f423c4f4">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="4a150d6eef6980d6d5e64ea34b635133">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="79aafca0a53401f58a0d60b5dac07bd5">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="792a972fc4ca1a1448b7132d36119ae4">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9a797c6c50cdb2456605c989030601db">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3bbb112568473126f27ccb1ee7129c99">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="fdac5d8ce3425c6184de31b70027b929">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="12adc21841cb6fc4bb2a448f131d44f3">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b34eb18ca4f4840f129c13d3dfed4f75">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e61781abde8f5ccec641910e49badf06">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d0040371d97bf2ddad1d3edc3bcd2469">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="4b9f168a9495960069efeb76a98059b4">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="14f6a5520a8be3e5d35340bc705083e3">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOM</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b221af99f2ca34b8754d7057ffc13c54">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="eece82aae8d7a3c418697f3214ca0a1c">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6468bcdd3fcdfede7794e316f1770804">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ba80a5901bae1a17d92b3160732fe1ba">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1060c40b041b2cb8318199bc6baf9c5e">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9c0e02e39b5903ea56229fe5661b08f0">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f87a8cd074d2f2f6e6d35ef28dc119f6">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="22dcada48969bbb402b4bec118ab3127">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9b755bf067d0aae84798a0f096e11cb9">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="44951acdbaf8c529ac6c5e14935478e1">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cea43d144a206b369ce34f79823263c9">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a9796a2aa8c161bd1820d6825fa4d096">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f3025b8c9e51a523aa4c3ec2f054ce2d">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ac8a2042a6f19e79b2dadf882ca2ee6b">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a460bc7b5815fcb90db802316136207d">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="5ce7f2f03930a7efdbed1e34d8116bda">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f94d8d157078249f37a0f50f1a2b3573">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8cc4f52b195571ff8769461507b6f094">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JPCXCOMV</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c9c2d74fb815f6ffe0fa291ac9108ff0">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="01a9c2ee0b5c63a301e7aa0b49d4c9f5">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1b9013d88d05b500b626f50f24fef09e">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6b9c34ead981abbd38e3ed859281d081">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9cb50addc9b20756ba8b165bf644eee1">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="74430805f34296a1670703ec7c160c95">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2efc2efc5be735bdc3822d43d4728560">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="50226a4fa7c056b2189c49b93b3f53bb">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6b039aad0ea0424bcf14352afc00793d">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d1fff459c3fb06373953267b4485de6c">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8fc696c7ae59e1409b842d221bd667be">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ebf9991c1c0ba0e55b31aedb6ba60a24">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="941e712750e37481aabca00381655e5c">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a2b490c1dcd71803de256b05c963de1c">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="db9ab351e4952d33a60f908d768a255f">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2e7fec9ba7c99f49df4f5da4ab31061e">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="efbfafb892888370a45903c703d56118">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8fcea85bfdd33cb0597973b7b70daa36">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JPCXORDF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9c8c8c51d01ccea6a4fb06719b622f93">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f671f0b4d4e8fb024a1317dd16473778">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6318730336ccf29b48c5052d4bab81db">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="71c2f342bfa54e04a325cf931f35a133">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="209fdb8915a83b7b697f5e64cd581fb4">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="35818ed311fa55299b65dfaeaf95b982">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="70ac45acdfed31f236cf3b41f1437b72">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3402fe6ba7e9bd3c5eb3857e3d06c7c3">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ba6843f469b5509ca4383d84e80dfe41">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9880a8189a9a07cadb83ef51a0333193">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ebcbd5cf8c7f238e5538f62864c9f5d0">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="4cd954b7593170d6f7debb4127e38779">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d40b7d3ebbfda0c7cd98e85245270525">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="4a726428ce109edd43d7d62bc50f5d56">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ffabb25aef9bc2383172593a3016755a">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8d47258e3a83d8bee68d4a2683dbcf4a">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b6e845630e6110d9f148987da2e8ad6c">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6d9c0363a5edd45f2dd0f1ab7e175742">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JPCXFAT</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="5429cbc97e9170d21dba0c8d1b99b194">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cf1df368e7b5abc469ec6181be50dd4f">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="866eba73126f4ef80d3a06e8dd165fc4">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="5f01d9da1b32bf12947d14f48870c770">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="4af3be7049a098d50ad89fe32ea57ecf">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1f0e4cfa25831e9a8e09d020b248a667">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cbbbf229ebd8ad6d5785eff7251b39fb">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="50b86205f463a329a7264b2e5a0e6d9c">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1f8530cf98d1a2713ef27cfe8a77ca5f">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3b34c1cab2548816829a985893933c49">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a7877f132d4c95bf62b1e836676b23a6">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="67c2a62ed5a82898a1fd808109c683d8">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="377b163419ce80e2174b9eee8b2a8f45">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c6104c976e5cd488819d6226b6acb2de">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1f7ea0fd5cd29e8d8889109197decd2e">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="bc300486d2d7f19077d136049621d3a2">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="049eb27d70b1ac3c3f3203862459b18c">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="48de9eefec7fb8ab47d6cf50e5f3258e">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JPCXSVE</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="be54d508148708e2e299d201189d326f">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="818584f3308ab6f5ff61c95dafb9bc51">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="97ecc4ae522457b335aacdae62644c74">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a1d89a38d877dc3a9b08d8012393b40d">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ace8333319611f8a1389e0f220688df1">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d3356ddd5bf8a420310ad0218dab2847">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="49cf5c154ac62948537ce3a55a0487ec">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="dc65258efa800c3a7e7dc69a3e2c1aeb">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0bcb3c251a3a2f788751f1f4e49e858b">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="29daf0e385cf6781481bab755c90f1e2">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="547f228666d94cc84bee46a95281d623">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e4102ae03c3728240fc131b1e52ad146">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="629556e8a35144c865c21e47d27ebd79">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="402ec9d5b1284737419b3fa5ab98ebd1">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ce847f7860146b9c33b22c3bff471836">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="5414331e7355bffda8bd47496f811123">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="53e15690e06fed4a18855ae9380b83ed">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a369a534e39a971dac3a5f40414cc278">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JCQR110</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2ccdec4cd40f211d3c20add2cfaf54e9">
+      <lib>23</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JMVB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="fc178ddf250b2d0ffdda5a2df3301e86">
+      <lib>23</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JMVB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="88dadb086064fa5e4c1c0fd0f24df043">
+      <lib>23</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JMVB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b75dd2147ee144c46328e858ac6f7768">
+      <lib>23</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JMVB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="96ab16240b329f0f8a66a1e6756e51fa">
+      <lib>23</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JMVB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="abe3e4cdb91113d0e73b480d7a141eb9">
+      <lib>23</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JMVB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b472c10fc2c818c31716197c7a998b8a">
+      <lib>23</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JMVB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9bda9560cf02e71edfc24a9ae4ff4b0c">
+      <lib>23</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JMVB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c9cc854a5cf8f5f7b7bfccd295d8dd1c">
+      <lib>23</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JMVB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="fdb1b7b6bece66564c21ca2c44328f0b">
+      <lib>23</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JMVB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1b85fd9aa4cf67b85e1f5a05afa7bf53">
+      <lib>23</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JMVB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="37400c2db29e903d2ea83fefddd3bcd4">
+      <lib>23</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JMVB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b7e887bd9edfa754f9b4e8201142a077">
+      <lib>23</lib>
+      <macro>VGE</macro>
+      <suspended>false</suspended>
+      <nome>JMVB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="03227655b068d2fc61a9ec19da2353af">
+      <lib>23</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JMVB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="44db3ce444a9edeed6f13a969c42dbaa">
+      <lib>23</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JMVB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ac5f5dca343fec2f00d2db75fb83ac7b">
+      <lib>23</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JMVB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b7f592fc01f50ace9f77fe5453847875">
+      <lib>23</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JMVB</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="282297f4e1a64df846708407b97df86b">
+      <lib>28</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JBIXLCSF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3d915e02cf76511eba927e78d44db6a0">
+      <lib>28</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JBIXLCSF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="21e70d773ada2629e606a3e3e18ef874">
+      <lib>28</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JBIXLCSF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="75f33552cbb22b94ca421405f5dcd4a3">
+      <lib>28</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JBIXLCSF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0e09b4341802159c35437adaf095cb6b">
+      <lib>28</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JBIXLCSF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="fc65f1cb91e37c65198293174f2cce86">
+      <lib>28</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JBIXLCSF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="bf7181c5df9f19e8feb1a99ff85664d7">
+      <lib>28</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JBIXLCSF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6f7aefca7483d64d4087afcf14b1d1a9">
+      <lib>28</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JBIXLCSF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1d75bd87dd8224605773f8cefb82785f">
+      <lib>28</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JBIXLCSF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="05b9ba20e2d16a8fcd99f6881425f681">
+      <lib>28</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JBIXLCSF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b86925d6d9703c24c10a3f4248a088e3">
+      <lib>28</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JBIXLCSF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="df6f03e139cde7ecd10f66b7d478c9d1">
+      <lib>28</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JBIXLCSF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f29be5e8f7b2c7fb6da2b9b6bf4137d6">
+      <lib>28</lib>
+      <macro>VGE</macro>
+      <suspended>false</suspended>
+      <nome>JBIXLCSF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="5b9e1d21650c0feb36b02a863cd790a7">
+      <lib>28</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JBIXLCSF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="56ef348a4f0d974cc6b4584cda9164aa">
+      <lib>28</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JBIXLCSF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="38d8b0f70533e5c5d3e87db487b941e2">
+      <lib>28</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JBIXLCSF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cf2ce9a6844d5f4978e05982083e0cb2">
+      <lib>28</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JBIXLCSF</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+  </day_title>
+  <day_title name="Storici">
+    <job id="797f329a24c38087dd0e994d0dd9ecb2">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1D</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="eb08783a5cc309fc37417e1e472cdac1">
+      <lib>25</lib>
+      <macro>VDE</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1D</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="93f5d86d6cfde8135f9bbab28b54b80e">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1E</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="fc84afaf95b737c63e9cd460396dea34">
+      <lib>25</lib>
+      <macro>VES</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1E</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="340d64aed51cefca0afc8c480be37bf7">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1W</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c2211528a54cad27f933895438170590">
+      <lib>25</lib>
+      <macro>VSW</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1W</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="4a7836381aa0ee8a4141af197c5f037a">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1F</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0ff73e0aa236d9786502558330937e89">
+      <lib>25</lib>
+      <macro>VFR</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1F</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="503d4fc6dde26be5c9d1b56ba3209154">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1B</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="03b7413ee70485214f1997f2541e3a19">
+      <lib>25</lib>
+      <macro>VBE</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1B</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1c9e1deddb285d7c8f63d2263bd568f8">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1H</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6ba6660da2ae300c50baafeb3f1fe89f">
+      <lib>25</lib>
+      <macro>VHK</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1H</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3d850fdf4ed91986575c49c2eb847eb8">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1A</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ec18404ff3833b84a865c865f9004a8c">
+      <lib>25</lib>
+      <macro>VAU</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1A</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="533069d7e0b8153394a2e6e2097ac88f">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1N</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="07d0235149b521287c51ef836090e30a">
+      <lib>25</lib>
+      <macro>VNE</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1N</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7e4fb1ac6954d1a70ae4723a9b120f0a">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1P</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="071e2847aaebc90a80abf72a99e696d5">
+      <lib>25</lib>
+      <macro>VPT</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1P</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="598c62ca54df67440f7b186797793acf">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1U</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="dfca2902ae5d22f65cb058b1ff85afa7">
+      <lib>25</lib>
+      <macro>VUK</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1U</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="eb3c37229b2ccee7a7e3056c85465dad">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1C</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d95c99a722360faf12afa316aee188e5">
+      <lib>25</lib>
+      <macro>VCH</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1C</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="87a63fc4868a336d10eb82dedaff0b27">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1S</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d1c23c97ae122b7df084dfcfca56ffa5">
+      <lib>25</lib>
+      <macro>VSL</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1S</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="de6886825059f74fbb82b67b6f453801">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1G</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="22e6565825e0f11e8618b2633bce49cf">
+      <lib>25</lib>
+      <macro>VGE</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1G</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6652ac636dbf7de32477221c7399cf44">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1K</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a361c0d8d89908673feaf493d890fc73">
+      <lib>25</lib>
+      <macro>VAF</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1K</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d6aa7acd13d990f0a31d52b82896a16f">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1M</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8fe347862490c3e2b3ab26fb10643349">
+      <lib>25</lib>
+      <macro>VMX</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1M</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="91cec35406a80ab41c3d88f23a04cba4">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1X</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b5764a7604b997a84aea354d9fedd99b">
+      <lib>25</lib>
+      <macro>VHE</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1X</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b240a04b2014842089978bf850f072dd">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1Y</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3653cea15779f99a9b163092ee971b6e">
+      <lib>25</lib>
+      <macro>VYA</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1Y</nome>
+      <param>come sta!</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="edaf99d2dfa93a9c203c0dc2076e7a1d">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JOCRST1O</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6537ebca8303c029028ab93391a0748b">
+      <lib>25</lib>
+      <macro>VUM</macro>
+      <suspended>false</suspended>
+      <nome>JFCRST1O</nome>
+      <param/>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+  </day_title>
+</book_title>

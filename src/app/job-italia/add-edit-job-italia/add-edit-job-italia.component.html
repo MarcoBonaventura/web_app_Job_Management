@@ -1,0 +1,93 @@
+
+
+<div class="container">
+
+    <div class="row">
+      
+      <label class="col-md-2 col-form-label">Job Name</label>
+      <div class="col-md-2">
+        <input type="text" class="form-control" [(ngModel)]="JobName" placeholder="Enter Job Name" required>
+      </div>
+      
+      <label class="col-md-auto col-form-label">Macro</label>
+      <div class="col-md-auto">
+        <select class="form-control" [(ngModel)]="Macro">
+          <option *ngFor="let itemData of JobMacroList; let i=index" id="{{itemData}}">
+            {{itemData.MacroVal}}
+          </option>
+        </select>
+      </div>
+      
+      <label class="col-md-auto col-form-label">Lib</label>
+      <div class="col-md-1">
+        <input type="text" class="form-control" [(ngModel)]="Lib" placeholder="Libreria" required>
+      </div>
+    
+      <label class="col-md-auto col-form-label">Sospeso?</label>
+      <div class="form-group">
+        <div *ngFor="let itemData of SuspendedOpt; let i=index">
+          <div class="radio">
+            <input type="radio" id="{{itemData}}" name="radio{{i}}" [(ngModel)]="Suspended" [value]="itemData.Suspended" />
+            <label style="margin-left: 2px;;" for="{{itemData}}">{{itemData.Suspended}}</label>    
+          </div>
+        </div>
+      </div>
+  
+      <!--
+      <label class="col-md-auto col-form-label">Venerdì 2x?</label>
+      <div class="form-group">
+        <div *ngFor="let itemData of FridayJobs; let i=index">
+          <div class="radio">
+            <input type="radio" id="{{itemData}}" name="radio{{i}}" [(ngModel)]="Friday2X" [value]="itemData.Friday2X" />
+            <label for="{{itemData}}">{{itemData.Friday2X}}</label>    
+          </div>
+        </div>
+      </div>
+      -->
+  
+      <label class="col-md-auto col-form-label">Pagina</label>
+      <div class="col-md-auto">
+        <select class="form-control" [(ngModel)]="JobPage">
+          <option *ngFor="let itemData of ItaliaPages">
+            {{itemData.JobPage}}
+          </option>
+        </select>
+      </div>
+  
+    </div>
+   
+  
+    <div class="row">
+        
+        <label class="col-sm-2 col-form-label">Parametri</label>
+        <div class="col-sm-9">
+          <input type="text" class="form-control" [(ngModel)]="Params">
+        </div>
+        <label class="col-sm-2 col-form-label">Descrizione</label>
+        <div class="col-sm-9">
+          <input type="text" class="form-control" [(ngModel)]="Descr">
+        </div>
+        
+        <label class="col-md-2 col-form-label">JobID</label>
+        <div class="col-md-2">
+          <input type="text" class="form-control" [(ngModel)]="JobID">
+        </div>
+        <label class="col-md-2 col-form-label">PRTY</label>
+        <div class="col-md-2">
+          <input type="text" class="form-control" [(ngModel)]="Prty">
+        </div>
+  
+    </div>
+  </div>
+  
+  
+  <button (click)="addJob()" *ngIf="jobitalia.JobID==0" class="btn btn-primary">
+      Add
+  </button>
+  
+  <button (click)="updateJob()" *ngIf="jobitalia.JobID!=0" class="btn btn-primary">
+      Update
+  </button>
+  
+  
+  

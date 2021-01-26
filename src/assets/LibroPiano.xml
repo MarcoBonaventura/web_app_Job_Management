@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book_title name="Piano">
+  <day_title name="Venerdi">
+    <job id="54b08d4ce6aa9f51f0e0602a95025667">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JSAPCD0</nome>
+      <param>come sta!</param>
+      <desc>note</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ee60432daeff274a6525563a2c070ccf">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JSAPCD6</nome>
+      <param>come sta!</param>
+      <desc>nota</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ca678dd11805fdfbd9cb019a3eb7be3f">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JPLNDPCF</nome>
+      <param>come sta!</param>
+      <desc>gfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="435e4cd1065366dc86e6350e0139f351">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JRIEPLN</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b3b249b0041b86e1d8ccd46b63f89ea2">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSLFIX</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c4e5e8a411562e7ee240c91c5b962d6b">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JWGTGLD</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7af0879e175d6537306c0d3e32663364">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JDRPMPS</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c4d228094aa8932420133f9e421175e2">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>true</suspended>
+      <nome>JDRPTGD</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="40a29f0e78283028c28bb979b09e6e81">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JDRPLO2</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf  </desc>
+    </job>
+    <job id="9774c4f0e12994f59acf3160d544aff5">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>true</suspended>
+      <nome>JPMXCNF</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7f023a1399155aea5466f118d6ab9764">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSESN1</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="64e93774b869f4e50a3fdab46863807f">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBGP1</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9736a6328cbcbd3208c21efcd6fa8bad">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSLN1</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c70026c8e54c38293e68a239d6a194a7">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSLMVS</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f95ff6f98d3da896c765db306888bb2e">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JOPECDTN</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="5926b739dfd63da71c2c89af6c2b1500">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSDEL</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b42719ba6bd623da847533519fbf1bc6">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JSLXESTU</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="865b5f34a90cbf26f3fa130028a115e4">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JLPELIS</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="17e878b8eb3db821da64457736dac379">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JDRPWGPS</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3f9ef403a6ee6918c1d39e4ff75a2b8b">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JPLXORMO</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="767e1a7c33b9fdb341cc8b3f98aa624e">
+      <lib>29</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JOPXACQ</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="968d53cd344e92c3eab24d40335948db">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JRIXPLN</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6fbd9b96f56c925ca6258aafb9725acd">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JPMXBASK</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="767124637180224373b44cf049dc551f">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JPMXESDB</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8409c65b767c0a4c342b948e2010b74c">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JPMRE1</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="82480c5f4434001ee088b9f980665aaa">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSRIND</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="fb725eb94066f21027ff195a7f6ed220">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JJOBLOG</nome>
+      <param>come sta!</param>
+      <desc/>
+    </job>
+  </day_title>
+  <day_title name="Lunedi">
+    <job id="3f0d307e69e79254ed35858e187ff701">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>true</suspended>
+      <nome>JGPSLUN</nome>
+      <param>JGPSLUN - JIRXITM - JIIXPLPF</param>
+      <desc/>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7f53b46afcb4ca4c87ca23b8a7fbb015">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JSAPCD6</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="01f7691c20ce8cace6ba676f74b051f3">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBGP0</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d2dda6850622cb085120d99187efd48d">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JPLNDPCF</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f0e3f85f069242b064cba344f0342c77">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JWGTGLD</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="5fb837d7bdc248134c9f38726497243d">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSESN2</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a415bd179c802cf0ca9bc949a6517e6c">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBGP1</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a6de3a3a9f149afcf3ec3b4a14268600">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSLN2</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b708120cc282c4b449a3f76cf9658353">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSLMVC</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="eefbdd0c541123d5be0d3ce28473ada9">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JOPECDTN</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="416e564c17d4f98bbce88dddbeb7ae77">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSDEL</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3a81a50cb4ae5cc10ba6798ecb8f70be">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JSLXESTU</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d7564ebe92329b4ccb59ebcab26d0dca">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JLPELIS</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="81fbe2c29b5a27e32308e30930856f4c">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JDRPWGPS</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b5ae12059b78c0f60a2a81632840e721">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JOFXPLNG</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="744a352690f9ecbe5935287992e34990">
+      <lib>29</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGMB140</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="48c322a92bf9bf9cd5f3223cf6077517">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JPLXESTR</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a39c9f8c27c9ca687818a2b3239b418b">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JJOBLOG</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9192e5ef11472497f82eeb08a173a7fb">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JPMXESDB</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+  </day_title>
+  <day_title name="Martedi">
+    <job id="f43789418b890dfe3f370401ca47696c">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>true</suspended>
+      <nome>JFAVBSIM</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="88df9cfc22040787f48c9f737e715c66">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>true</suspended>
+      <nome>JGPSLN2S</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="680f22a4af95be0ca196aea8931b2731">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>true</suspended>
+      <nome>JGPSDELS</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a1f5225ea558881ac2feab26aa1ec034">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JSAPCD6</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1aa64a90d156f844d1d535ce342cae22">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBGP0</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="5b5d32d6c4723d7c5a034c03c8a6d305">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JPLNDPCF</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a08e620211d64636fa95f0cb10264f8f">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JWGTGLD</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1c20972db2d817d82492c6d1fd7b3735">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSESN3</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6337dcb997e7c67c01f614e462578149">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBGP1</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="adb9457005b2d02de28b0bc984b0da70">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSLN3</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1a7893d8c48dec42b1e5861cc24ec833">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSLMVC</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8d128facf1ef48eef60ac4080f6ce59e">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JOPECDTN</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="bfbf2a1b25209d89199350e6372c3788">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JTECLOAD</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="16d6278eb983a3dae9a344ab687359d2">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSDEL</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1d318e42ecff61985e5f3cd7b3e265c0">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JSLXESTU</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f17adfcd439b63650de6414392d0c7cf">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JLPELIS</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="6ac6e2f4787de5aeb86874be36b5a740">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JDRPWGPS</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="2cd6e4b7cf9218c8bc8cbbea31196471">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JPLXESTR</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="8f44a4f2505f6e1da49040fe898c1b5f">
+      <lib>29</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JMAG</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c05fd9a8baafd553621d3c709651e35f">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JDBRV</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="dbb9bdd0d087d8b3c36b878315073d2e">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JPMXPRZ</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="05261a27b6e3833276ea7e543ade675f">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JJOBLOG</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c80bd1ca975a4040f3bff5aa13168b62">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JPMXESDB</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+  </day_title>
+  <day_title name="Mercoledi">
+    <job id="e408c4829e94fcac1ca967febc4d5b9c">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>true</suspended>
+      <nome>JGPSEPRO</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="54b41cfb0c3ffd35387275185ddae2da">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>true</suspended>
+      <nome>JGPSMER</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9f53563dd171831a3322794a3e34f973">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>true</suspended>
+      <nome>JFAVBSIM</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="a9cc24e20662b9a4c1d78589c51efce0">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>true</suspended>
+      <nome>JGPSLN3O</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="4e67565a69b927074e8299ac9dbb02bd">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JSAPCD6</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="60854bfc80051e377f2113fbc4d5c295">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JPLNDPCF</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="3e4f867c67d73888e7bbaf7499db9167">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JIRXCPOG</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cfbe47274b4c2776748923f7c6387d05">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>true</suspended>
+      <nome>JPMEUSCG</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0f1397b1f2476d163f29f1d001869618">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>true</suspended>
+      <nome>JPMEUSAG</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="641de11d4fe1c860558cd109b6c004e5">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>true</suspended>
+      <nome>JPMXCNF</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="4f6fbe60419ceb9ea4878bbf47c1cd69">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JWGTGLD</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="38c08ef1c3faf1fbe2dd4ac7de05054d">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JFAVBGP0</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="cc8d6f8db06fbe401d4896b169b2e434">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSESN4</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="66f3731a5b022647177ce66e60d67011">
+      <lib>22</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JBCKCOP</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="1a6d5882aa86568333f9679f22a0ce6d">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSLN4</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="321c8bcf92ee1738de5ee10055882a2f">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JI016BTC</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf  </desc>
+    </job>
+    <job id="30ac28d98bdc6f5506f509da8c317a59">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSLMVC</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="584d297d1f98a17e56a8aa8ad7cd2fa1">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JOPECDTN</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="e7f14a2026f9c841f861a0c16366c18d">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSDEL</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b3b45aef7cd462f404dd840f04228589">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JSLXESTU</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="63305f59a675679770ea99b979ee536d">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JLPELIS</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="eb5ba34c9d651f95672cb074336c285c">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JDRPWGPS</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f5d7b671811767160beb57084f53d1bd">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JPLXORMO</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f93c4ae37295c24dfa9fd9a7f20a7c2f">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JMRPLIST</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="b5e89aa425fc50e1208591ea6adc9662">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JPMRE4</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0dd79d5a764ce7fd93852909ef3fe0a3">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JRIXPLN</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="d8e6c56f0326d8a3ba2c043496ac87fc">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JOFXPLNG</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7afe3a8c3e245516b8001aba5818350b">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JSLXESTT</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="7d674822743c0f925002f197383a269e">
+      <lib>29</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGMB140</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="c938b4d9f160b95eda67325fb3606374">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JPMXESDB</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="818f1554ba11880712d73f2ffdeb3c2c">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JJOBLOG</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="9459f5c652dbff44b90c9e1bf324d606">
+      <lib>29</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <ven2x>false</ven2x>
+      <nome>JOPXDGWS</nome>
+      <param>come sta|</param>
+      <desc>nota</desc>
+    </job>
+  </day_title>
+  <day_title name="Giovedi">
+    <job id="e9d2371d9b2a9fa6efcb4ae2eed0a112">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JSAPCD6</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="735db228fc9dcd86da6c669e81b4cfe4">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JWGTGLD</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="26a9cc53a4c6daf85c86bf55e26a3607">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JGPSLMVC</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="f4815828a3986075113a934300ea4d9a">
+      <lib>29</lib>
+      <macro>V10</macro>
+      <suspended>true</suspended>
+      <nome>JOFECOMP</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="065f0a9858cae72b25fc62f9adf08a80">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JTECLOAD</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="691ad91633f7a1daea65892c5653ebc0">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JLPELIS</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="0365caba729b92f85b9f6d9542790958">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JOFXSMS</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="ba372af2de7a90fb6efa79236f943db4">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JIIEAUSA</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+    <job id="71e194c98ab5ebe2712e88ad4b069604">
+      <lib>23</lib>
+      <macro>V10</macro>
+      <suspended>false</suspended>
+      <nome>JJOBLOG</nome>
+      <param>come sta!</param>
+      <desc>fghgfhgf</desc>
+      <ven2x>false</ven2x>
+    </job>
+  </day_title>
+</book_title>

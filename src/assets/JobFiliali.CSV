@@ -1,0 +1,806 @@
+JobID;Lib;Macro;Suspended;JobName;Descr;Friday2X;Param;JobPage;Prty
+1;25;VYA;no;JEXRALDY;;si;come sta!;Giornalieri;1
+2;25;VHK;no;JMAG31H;;no;come sta!;Giornalieri;2
+3;25;VHK;no;JOCEVHK;lancia anche JDEE01HK;no;come sta!;Giornalieri;3
+4;23;VHK;no;JOFXESTH;;no;come sta!;Giornalieri;4
+5;25;VUK;no;JOCB010U;;no;come sta!;Giornalieri;5
+6;25;VUK;no;JMCSRESI;variare anno a gennaio con quello in corso - se festivo cambiare date;no;come sta!;Giornalieri;6
+7;25;VAF;no;JOCB010K;;no;come sta!;Giornalieri;7
+8;25;VAF;no;JTRXMOVK;nel we deve girare il venerdi;no;come sta!;Giornalieri;8
+9;25;VMX;si;JOCE024;aggiorna OCDB righe ordini su ordini Gucci;no;come sta!;Giornalieri;9
+10;25;VMX;no;JOCEVMX;lancia anche JDEE01MX;no;come sta!;Giornalieri;10
+11;25;VMX;no;JFCEFATM;estrazione bolle e creazione nuove fatture SAFILO MX;si;come sta!;Giornalieri;11
+12;25;VMX;no;JFCX001M;31122050-999999999-Y-blank-blank-*;no;come sta!;Giornalieri;12
+13;29;VMX;no;JMVEPEDI;;no;come sta!;Giornalieri;13
+14;23;VMX;no;JOFXESTM;;no;come sta!;Giornalieri;14
+15;25;VHE;no;JFCX001X;31122050-999999999-Y-blank-blank-*;no;come sta!;Giornalieri;15
+16;28;VHE;no;JDWXIGDB;;no;come sta!;Giornalieri;16
+17;28;VSL;no;JARCSOST;;no;come sta!;Giornalieri;17
+18;23;VCH;no;JMVB090C;;no;come sta!;Giornalieri;18
+19;28;VCH;no;JGCXCOOP;;si;come sta!;Giornalieri;19
+20;28;VCH;no;JGCXINFI;;no;come sta!;Giornalieri;20
+21;25;VUM;no;JFCX001O;"01011980 - 31122050 - ***** - *********** - Y - blank - 
+blank";no;come sta!;Giornalieri;21
+22;25;VDE;no;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;22
+23;25;VES;no;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;23
+24;25;VSW;no;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;24
+25;25;VFR;no;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;25
+26;25;VBE;no;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;26
+27;25;VHK;no;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;27
+28;25;VAU;no;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;28
+29;25;VNE;no;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;29
+30;25;VPT;no;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;30
+31;25;VUK;no;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;31
+32;25;VCH;no;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;32
+33;25;VSL;no;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;33
+34;25;VGE;si;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;34
+35;25;VAF;no;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;35
+36;25;VMX;no;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;36
+37;25;VHE;no;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;37
+38;25;VYA;no;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;38
+39;25;VUM;no;JUNIFIL;in caso di festivita forzare le date;no;come sta!;Giornalieri;39
+40;28;VDE;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;40
+41;28;VES;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;41
+42;28;VSW;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;42
+43;28;VFR;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;43
+44;28;VBE;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;44
+45;28;VHK;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;45
+46;28;VAU;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;46
+47;28;VNE;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;47
+48;28;VPT;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;48
+49;28;VUK;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;49
+50;28;VCH;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;50
+51;28;VSL;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;51
+52;28;VGE;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;52
+53;28;VAF;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;53
+54;28;VMX;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;54
+55;28;VHE;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;55
+56;28;VYA;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;56
+57;28;VUM;no;JDWXSVFI;in caso di festivita forzare le date;no;come sta!;Giornalieri;57
+58;28;VDE;no;JGCXOUFI;;no;come sta!;Giornalieri;58
+59;28;VES;no;JGCXOUFI;;no;come sta!;Giornalieri;59
+60;28;VSW;no;JGCXOUFI;;no;come sta!;Giornalieri;60
+61;28;VFR;no;JGCXOUFI;;no;come sta!;Giornalieri;61
+62;28;VBE;no;JGCXOUFI;;no;come sta!;Giornalieri;62
+63;28;VHK;no;JGCXOUFI;;no;come sta!;Giornalieri;63
+64;28;VAU;no;JGCXOUFI;;no;come sta!;Giornalieri;64
+65;28;VNE;no;JGCXOUFI;;no;come sta!;Giornalieri;65
+66;28;VPT;no;JGCXOUFI;;no;come sta!;Giornalieri;66
+67;28;VUK;no;JGCXOUFI;;no;come sta!;Giornalieri;67
+68;28;VCH;no;JGCXOUFI;;no;come sta!;Giornalieri;68
+69;28;VSL;no;JGCXOUFI;;no;come sta!;Giornalieri;69
+70;28;VGE;si;JGCXOUFI;;no;come sta!;Giornalieri;70
+71;28;VAF;no;JGCXOUFI;;no;come sta!;Giornalieri;71
+72;28;VMX;no;JGCXOUFI;;no;come sta!;Giornalieri;72
+73;28;VHE;no;JGCXOUFI;;no;come sta!;Giornalieri;73
+74;28;VYA;no;JGCXOUFI;;no;come sta!;Giornalieri;74
+75;28;VUM;no;JGCXOUFI;;no;come sta!;Giornalieri;75
+76;28;VDE;no;JGCXCFFI;;no;come sta!;Giornalieri;76
+77;28;VES;no;JGCXCFFI;;no;come sta!;Giornalieri;77
+78;28;VSW;no;JGCXCFFI;;no;come sta!;Giornalieri;78
+79;28;VFR;no;JGCXCFFI;;no;come sta!;Giornalieri;79
+80;28;VBE;no;JGCXCFFI;;no;come sta!;Giornalieri;80
+81;28;VHK;no;JGCXCFFI;;no;come sta!;Giornalieri;81
+82;28;VAU;no;JGCXCFFI;;no;come sta!;Giornalieri;82
+83;28;VNE;no;JGCXCFFI;;no;come sta!;Giornalieri;83
+84;28;VPT;no;JGCXCFFI;;no;come sta!;Giornalieri;84
+85;28;VUK;no;JGCXCFFI;;no;come sta!;Giornalieri;85
+86;28;VCH;no;JGCXCFFI;;no;come sta!;Giornalieri;86
+87;28;VSL;no;JGCXCFFI;;no;come sta!;Giornalieri;87
+88;28;VGE;si;JGCXCFFI;;no;come sta!;Giornalieri;88
+89;28;VAF;no;JGCXCFFI;;no;come sta!;Giornalieri;89
+90;28;VMX;no;JGCXCFFI;;no;come sta!;Giornalieri;90
+91;28;VHE;no;JGCXCFFI;;no;come sta!;Giornalieri;91
+92;28;VYA;no;JGCXCFFI;;no;come sta!;Giornalieri;92
+93;28;VUM;no;JGCXCFFI;;no;come sta!;Giornalieri;93
+94;28;VDE;no;JGCXRJFI;;no;come sta!;Giornalieri;94
+95;28;VES;no;JGCXRJFI;;no;come sta!;Giornalieri;95
+96;28;VSW;no;JGCXRJFI;;no;come sta!;Giornalieri;96
+97;28;VFR;no;JGCXRJFI;;no;come sta!;Giornalieri;97
+98;28;VBE;no;JGCXRJFI;;no;come sta!;Giornalieri;98
+99;28;VHK;no;JGCXRJFI;;no;come sta!;Giornalieri;99
+100;28;VAU;no;JGCXRJFI;;no;come sta!;Giornalieri;100
+101;28;VNE;no;JGCXRJFI;;no;come sta!;Giornalieri;101
+102;28;VPT;no;JGCXRJFI;;no;come sta!;Giornalieri;102
+103;28;VUK;no;JGCXRJFI;;no;come sta!;Giornalieri;103
+104;28;VCH;no;JGCXRJFI;;no;come sta!;Giornalieri;104
+105;28;VSL;no;JGCXRJFI;;no;come sta!;Giornalieri;105
+106;28;VGE;si;JGCXRJFI;;no;come sta!;Giornalieri;106
+107;28;VAF;no;JGCXRJFI;;no;come sta!;Giornalieri;107
+108;28;VMX;no;JGCXRJFI;;no;come sta!;Giornalieri;108
+109;28;VHE;no;JGCXRJFI;;no;come sta!;Giornalieri;109
+110;28;VYA;no;JGCXRJFI;;no;come sta!;Giornalieri;110
+111;28;VUM;no;JGCXRJFI;;no;come sta!;Giornalieri;111
+112;28;VDE;no;JGCXSHFI;;no;come sta!;Giornalieri;112
+113;28;VSW;no;JGCXSHFI;;no;come sta!;Giornalieri;113
+114;28;VES;no;JGCXSHFI;;no;come sta!;Giornalieri;114
+115;28;VFR;no;JGCXSHFI;;no;come sta!;Giornalieri;115
+116;28;VBE;no;JGCXSHFI;;no;come sta!;Giornalieri;116
+117;28;VHK;no;JGCXSHFI;;no;come sta!;Giornalieri;117
+118;28;VAU;no;JGCXSHFI;;no;come sta!;Giornalieri;118
+119;28;VNE;no;JGCXSHFI;;no;come sta!;Giornalieri;119
+120;28;VPT;no;JGCXSHFI;;no;come sta!;Giornalieri;120
+121;28;VUK;no;JGCXSHFI;;no;come sta!;Giornalieri;121
+122;28;VCH;no;JGCXSHFI;;no;come sta!;Giornalieri;122
+123;28;VSL;no;JGCXSHFI;;no;come sta!;Giornalieri;123
+124;28;VGE;si;JGCXSHFI;;no;come sta!;Giornalieri;124
+125;28;VAF;no;JGCXSHFI;;no;come sta!;Giornalieri;125
+126;28;VMX;no;JGCXSHFI;;no;come sta!;Giornalieri;126
+127;28;VHE;no;JGCXSHFI;;no;come sta!;Giornalieri;127
+128;28;VYA;no;JGCXSHFI;;no;come sta!;Giornalieri;128
+129;28;VUM;no;JGCXSHFI;;no;come sta!;Giornalieri;129
+130;28;VDE;no;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;130
+131;28;VES;no;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;131
+132;28;VSW;no;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;132
+133;28;VFR;no;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;133
+134;28;VBE;no;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;134
+135;28;VHK;no;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;135
+136;28;VAU;no;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;136
+137;28;VNE;no;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;137
+138;28;VPT;no;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;138
+139;28;VUK;no;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;139
+140;28;VCH;no;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;140
+141;28;VSL;no;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;141
+142;28;VGE;si;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;142
+143;28;VAF;no;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;143
+144;28;VMX;no;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;144
+145;28;VHE;no;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;145
+146;28;VYA;no;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;146
+147;28;VUM;no;JDSPLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;147
+148;28;VDE;no;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;148
+149;28;VES;no;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;149
+150;28;VSW;no;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;150
+151;28;VFR;no;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;151
+152;28;VBE;no;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;152
+153;28;VHK;no;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;153
+154;28;VAU;no;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;154
+155;28;VNE;no;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;155
+156;28;VPT;no;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;156
+157;28;VUK;no;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;157
+158;28;VCH;no;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;158
+159;28;VSL;no;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;159
+160;28;VGE;si;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;160
+161;28;VAF;no;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;161
+162;28;VMX;no;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;162
+163;28;VHE;no;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;163
+164;28;VYA;no;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;164
+165;28;VUM;no;JDSDLFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;165
+166;28;VDE;no;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;166
+167;28;VES;no;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;167
+168;28;VSW;no;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;168
+169;28;VFR;no;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;169
+170;28;VBE;no;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;170
+171;28;VHK;no;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;171
+172;28;VAU;no;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;172
+173;28;VNE;no;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;173
+174;28;VPT;no;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;174
+175;28;VUK;no;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;175
+176;28;VCH;no;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;176
+177;28;VSL;no;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;177
+178;28;VGE;si;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;178
+179;28;VAF;no;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;179
+180;28;VMX;no;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;180
+181;28;VHE;no;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;181
+182;28;VYA;no;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;182
+183;28;VUM;no;JDSXUFIL;nel we eseguire il sabato;no;come sta!;Giornalieri;183
+184;25;VUK;no;JFCELUXO;lunedì al giovedì;no;come sta!;Giornalieri;184
+185;25;VCH;no;JOCEVCH;dal lunedì al venerdì;no;come sta!;Giornalieri;185
+186;25;VES;no;JOCE024E;prima verificare disponibilita file Gucci in mainframe;no;come sta!;Lunedi;186
+187;25;VXX;si;JMARTEDI;prima verificare disponibilita file Gucci in mainframe;no;come sta!;Martedi;187
+188;25;VHK;no;JPRXIHK;;no;come sta!;Mercoledi;188
+189;29;VHK;no;JSKDELS4;;no;come sta!;Mercoledi;189
+190;25;VHK;no;JFCX001H;;no;data del giorno-999999999-Y-blank   stampe in classe U -> NEA6;Giovedi;190
+191;25;VMX;no;JOCXRMEX;;no;come sta!;Giovedi;191
+192;25;V10;no;JOCEERIP;;no;come sta!;Giovedi;192
+193;25;VDE;no;JFCX001D;estrazione fatture da contabilizzare;no;data del giorno-99999999-Y-blank-blank-blank-*;Venerdi;193
+194;25;VES;no;JFCX001E;;no;data del giorno-99999999-Y-blank-blank-blank-S;Venerdi;194
+195;20;VES;no;JFAVBTFG;salvataggio FCDB e SVEP;no;come sta!;Venerdi;195
+196;25;VES;no;JFCX01E1;estrazione fatture da contabilizzare;no;data del giorno-99999999-Y-blank-blank-blank-E;Venerdi;196
+197;29;VHK;no;JSFE200H;nota;no;come sta!;Venerdi;197
+198;25;VDE;no;JMISABL1;;no;come sta!;Venerdi;198
+199;25;VES;no;JMISABL1;;no;come sta!;Venerdi;199
+200;25;VSW;no;JMISABL1;;no;come sta!;Venerdi;200
+201;25;VFR;no;JMISABL1;;no;come sta!;Venerdi;201
+202;25;VBE;no;JMISABL1;;no;come sta!;Venerdi;202
+203;25;VHK;no;JMISABL1;;no;come sta!;Venerdi;203
+204;25;VAU;no;JMISABL1;;no;come sta!;Venerdi;204
+205;25;VNE;no;JMISABL1;;no;come sta!;Venerdi;205
+206;25;VPT;no;JMISABL1;;no;come sta!;Venerdi;206
+207;25;VUK;no;JMISABL1;;no;come sta!;Venerdi;207
+208;25;VCH;no;JMISABL1;;no;come sta!;Venerdi;208
+209;25;VSL;no;JMISABL1;;no;come sta!;Venerdi;209
+210;25;VGE;si;JMISABL1;;no;come sta!;Venerdi;210
+211;25;VAF;no;JMISABL1;;no;come sta!;Venerdi;211
+212;25;VMX;no;JMISABL1;;no;come sta!;Venerdi;212
+213;25;VHE;no;JMISABL1;;no;come sta!;Venerdi;213
+214;25;VYA;no;JMISABL1;;no;come sta!;Venerdi;214
+215;25;VUM;no;JMISABL1;;no;come sta!;Venerdi;215
+216;25;VDE;no;JOCRST1D;;no;;Sabato;216
+217;25;VDE;no;JFCRST1D;;no;;Sabato;217
+218;25;VDE;no;JFCB030d;;no;da lunedi a sabato - N - N - N - N;Sabato;218
+219;25;VDE;no;JOCB010D;;no;come sta!;Sabato;219
+220;25;VDE;no;JOCB132D;;no;domenica scorsa/sabato - inizio anno/sabato - domenica scorsa/sabato - domenica scorsa/sabato;Sabato;220
+221;25;VDE;no;JTRXMOVE;;no;da lunedi a sabato;Sabato;221
+222;25;VES;no;JOCRST1E;;no;;Sabato;222
+223;25;VES;no;JFCRST1E;;no;;Sabato;223
+224;25;VES;no;JOCB010E;;no;come sta!;Sabato;224
+225;25;VSW;no;JOCRST1W;;no;;Sabato;225
+226;25;VSW;no;JFCRST1W;;no;;Sabato;226
+227;25;VSW;no;JOCB010W;;no;come sta;Sabato;227
+228;25;VSW;no;JOCB132W;;no;da lunedi a domenica;Sabato;228
+229;25;VFR;no;JOCRST1F;;no;;Sabato;229
+230;25;VFR;no;JFCRST1F;;no;;Sabato;230
+231;25;VFR;no;JOCB010F;;no;come sta!;Sabato;231
+232;25;VBE;no;JOCRST1B;;no;;Sabato;232
+233;25;VBE;no;JFCRST1B;;no;;Sabato;233
+234;25;VBE;no;JOCB010B;;no;come sta!;Sabato;234
+235;25;VHK;no;JOCRST1H;;no;;Sabato;235
+236;25;VHK;no;JFCRST1H;;no;;Sabato;236
+237;23;VHK;no;JPRXIHK;;no;come sta!;Sabato;237
+238;29;VHK;no;JMAGHK;;no;come sta!;Sabato;238
+239;29;VHK;no;JIIXIT01;;no;come sta!;Sabato;239
+240;28;VHK;no;JGCXINFI;nota;no;come sta!;Sabato;240
+241;25;VHK;si;JOCB131;eseguire il sabato piu vicino al 15;no;inizio mese/data del giorno;Sabato;241
+242;25;VAU;no;JOCRST1A;;no;;Sabato;242
+243;25;VAU;no;JFCRST1A;;no;;Sabato;243
+244;25;VAU;no;JOCB010A;;no;come sta!;Sabato;244
+245;25;VAU;no;JOCB080A;;no;* - * - 010180 - data sabato - DT - *** - PF - * - * - R - * -Y - N - N;Sabato;245
+246;25;VAU;no;JBCRPRTA;;no;domenica scorsa / sabato;Sabato;246
+247;25;VNE;no;JOCRST1N;;no;;Sabato;247
+248;25;VNE;no;JFCRST1N;;no;;Sabato;248
+249;25;VNE;no;JOCB010N;;no;come sta!;Sabato;249
+250;25;VPT;no;JFCX001P;;no;data del giorno;Sabato;250
+251;25;VPT;no;JOCRST1P;;no;;Sabato;251
+252;25;VPT;no;JFCRST1P;;no;;Sabato;252
+253;25;VPT;no;JOCB080P;;no;* - ** - 010180 - data del giorno - DT - *** - PF - NDV5 - * - R - * - Y - N - N;Sabato;253
+254;25;VPT;no;JOCB08PT;nota;no;*-**-010115-data del giorno-dt-int-pf-***-**-ti-n;Sabato;254
+255;25;VPT;si;JOCB010P;;no;come sta!;Sabato;255
+256;25;VUK;no;JFCEFATU;;no;data giorno - 010180 - data giorno;Sabato;256
+257;25;VUK;no;JFCX001U;;no;data del giorno;Sabato;257
+258;25;VUK;no;JOCRST1U;;no;;Sabato;258
+259;25;VUK;no;JFCRST1U;;no;;Sabato;259
+260;25;VUK;no;JREB010U;;no;data del giorno;Sabato;260
+261;25;VUK;no;JOCB010U;;no;come sta!;Sabato;261
+262;25;VUK;no;JFCXEDIF;;no;come sta!;Sabato;262
+263;25;VCH;no;JFCX001C;;no;data del giorno;Sabato;263
+264;25;VCH;no;JOCRST1C;;no;;Sabato;264
+265;25;VCH;no;JFCRST1C;;no;;Sabato;265
+266;25;VCH;no;JOCB010C;;no;come sta!;Sabato;266
+267;25;VSL;no;JOCRST1S;;no;;Sabato;267
+268;25;VSL;no;JFCRST1S;;no;;Sabato;268
+269;25;VSL;no;JOCB010N;;no;come sta!;Sabato;269
+270;25;VGE;si;JOCRST1G;;no;;Sabato;270
+271;25;VGE;si;JFCRST1G;;no;;Sabato;271
+272;25;VAF;no;JOCRST1K;;no;;Sabato;272
+273;25;VAF;no;JFCRST1K;;no;;Sabato;273
+274;25;VAF;no;JOCB010K;;no;come sta!;Sabato;274
+275;29;VMX;no;JSFE200M;;no;come sta!;Sabato;275
+276;25;VMX;no;JFCX01SM;;no;come sta!;Sabato;276
+277;25;VMX;no;JOCRST1M;;no;;Sabato;277
+278;25;VMX;no;JFCRST1M;;no;;Sabato;278
+279;25;VMX;no;JOCB010M;;no;come sta!;Sabato;279
+280;25;VHE;no;JFCEFATX;;no;data giorno - 010180 - data giorno;Sabato;280
+281;25;VHE;no;JOCRST1X;;no;;Sabato;281
+282;25;VHE;no;JFCRST1X;;no;;Sabato;282
+283;25;VHE;no;JOCB010X;;no;come sta!;Sabato;283
+284;25;VYA;no;JOCRST1Y;;no;;Sabato;284
+285;25;VYA;no;JFCRST1Y;;no;come sta!;Sabato;285
+286;25;VYA;no;JOCB010Y;;no;come sta!;Sabato;286
+287;25;VUM;no;JFCX01SO;;no;come sta!;Sabato;287
+288;25;VUM;no;JOCRST1O;;no;;Sabato;288
+289;25;VUM;no;JFCRST1O;;no;;Sabato;289
+290;23;VDE;no;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;290
+291;23;VES;no;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;291
+292;23;VSW;no;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;292
+293;23;VFR;no;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;293
+294;23;VBE;no;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;294
+295;23;VHK;no;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;295
+296;23;VAU;no;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;296
+297;23;VNE;no;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;297
+298;23;VPT;no;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;298
+299;23;VUK;no;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;299
+300;23;VCH;no;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;300
+301;23;VSL;no;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;301
+302;23;VGE;si;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;302
+303;23;VAF;no;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;303
+304;23;VMX;no;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;304
+305;23;VHE;no;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;305
+306;23;VYA;no;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;306
+307;23;VUM;no;JPRCALFI;"primo giro anno data
+validita 20AA0101";no;come sta!;Sabato;307
+308;23;VDE;no;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;308
+309;23;VES;no;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;309
+310;23;VSW;no;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;310
+311;23;VFR;no;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;311
+312;23;VBE;no;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;312
+313;23;VHK;no;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;313
+314;23;VAU;no;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;314
+315;23;VNE;no;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;315
+316;23;VPT;no;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;316
+317;23;VUK;no;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;317
+318;23;VCH;no;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;318
+319;23;VSL;no;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;319
+320;23;VGE;si;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;320
+321;23;VAF;no;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;321
+322;23;VMX;no;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;322
+323;23;VHE;no;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;323
+324;23;VYA;no;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;324
+325;23;VUM;no;JTCBCALF;"primo giro anno data
+0101AA - S - Y";no;blank - S - Y;Sabato;325
+326;25;VDE;no;JACECOMF;;no;come sta;Sabato;326
+327;25;VES;no;JACECOMF;;no;come sta;Sabato;327
+328;25;VSW;no;JACECOMF;;no;come sta;Sabato;328
+329;25;VFR;no;JACECOMF;;no;come sta;Sabato;329
+330;25;VBE;no;JACECOMF;;no;come sta;Sabato;330
+331;25;VHK;no;JACECOMF;;no;come sta;Sabato;331
+332;25;VAU;no;JACECOMF;;no;come sta;Sabato;332
+333;25;VNE;no;JACECOMF;;no;come sta;Sabato;333
+334;25;VPT;no;JACECOMF;;no;come sta;Sabato;334
+335;25;VUK;no;JACECOMF;;no;come sta;Sabato;335
+336;25;VCH;no;JACECOMF;;no;come sta;Sabato;336
+337;25;VSL;no;JACECOMF;;no;come sta;Sabato;337
+338;25;VGE;si;JACECOMF;;no;come sta;Sabato;338
+339;25;VAF;no;JACECOMF;;no;come sta;Sabato;339
+340;25;VMX;no;JACECOMF;;no;come sta;Sabato;340
+341;25;VHE;no;JACECOMF;;no;come sta;Sabato;341
+342;25;VYA;no;JACECOMF;;no;come sta;Sabato;342
+343;25;VUM;no;JACECOMF;;no;come sta;Sabato;343
+344;28;VDE;no;JGCXSHFS;;no;come sta;Sabato;344
+345;28;VES;no;JGCXSHFS;;no;come sta;Sabato;345
+346;28;VSW;no;JGCXSHFS;;no;come sta;Sabato;346
+347;28;VFR;no;JGCXSHFS;;no;come sta;Sabato;347
+348;28;VBE;no;JGCXSHFS;;no;come sta;Sabato;348
+349;28;VHK;no;JGCXSHFS;;no;come sta;Sabato;349
+350;28;VAU;no;JGCXSHFS;;no;come sta;Sabato;350
+351;28;VNE;no;JGCXSHFS;;no;come sta;Sabato;351
+352;28;VPT;no;JGCXSHFS;;no;come sta;Sabato;352
+353;28;VUK;no;JGCXSHFS;;no;come sta;Sabato;353
+354;28;VCH;no;JGCXSHFS;;no;come sta;Sabato;354
+355;28;VSL;no;JGCXSHFS;;no;come sta;Sabato;355
+356;28;VGE;si;JGCXSHFS;;no;come sta;Sabato;356
+357;28;VAF;no;JGCXSHFS;;no;come sta;Sabato;357
+358;28;VMX;no;JGCXSHFS;;no;come sta;Sabato;358
+359;28;VHE;no;JGCXSHFS;;no;come sta;Sabato;359
+360;28;VYA;no;JGCXSHFS;;no;come sta;Sabato;360
+361;28;VUM;no;JGCXSHFS;;no;come sta;Sabato;361
+362;28;VDE;no;JGCXARFI;;no;come sta;Sabato;362
+363;28;VES;no;JGCXARFI;;no;come sta;Sabato;363
+364;28;VSW;no;JGCXARFI;;no;come sta;Sabato;364
+365;28;VFR;no;JGCXARFI;;no;come sta;Sabato;365
+366;28;VBE;no;JGCXARFI;;no;come sta;Sabato;366
+367;28;VHK;no;JGCXARFI;;no;come sta;Sabato;367
+368;28;VAU;no;JGCXARFI;;no;come sta;Sabato;368
+369;28;VNE;no;JGCXARFI;;no;come sta;Sabato;369
+370;28;VPT;no;JGCXARFI;;no;come sta;Sabato;370
+371;28;VUK;no;JGCXARFI;;no;come sta;Sabato;371
+372;28;VCH;no;JGCXARFI;;no;come sta;Sabato;372
+373;28;VSL;no;JGCXARFI;;no;come sta;Sabato;373
+374;28;VGE;no;JGCXARFI;;no;come sta;Sabato;374
+375;28;VAF;no;JGCXARFI;;no;come sta;Sabato;375
+376;28;VMX;no;JGCXARFI;;no;come sta;Sabato;376
+377;28;VHE;no;JGCXARFI;;no;come sta;Sabato;377
+378;28;VYA;no;JGCXARFI;;no;come sta;Sabato;378
+379;28;VUM;no;JGCXARFI;;no;come sta;Sabato;379
+380;28;VDE;no;JGCXCUFI;;no;come sta;Sabato;380
+381;28;VES;no;JGCXCUFI;;no;come sta;Sabato;381
+382;28;VSW;no;JGCXCUFI;;no;come sta;Sabato;382
+383;28;VFR;no;JGCXCUFI;;no;come sta;Sabato;383
+384;28;VBE;no;JGCXCUFI;;no;come sta;Sabato;384
+385;28;VHK;no;JGCXCUFI;;no;come sta!;Sabato;385
+386;28;VAU;no;JGCXCUFI;;no;come sta!;Sabato;386
+387;28;VNE;no;JGCXCUFI;;no;come sta!;Sabato;387
+388;28;VPT;no;JGCXCUFI;;no;come sta!;Sabato;388
+389;28;VUK;no;JGCXCUFI;;no;come sta!;Sabato;389
+390;28;VCH;no;JGCXCUFI;;no;come sta!;Sabato;390
+391;28;VSL;no;JGCXCUFI;;no;come sta!;Sabato;391
+392;28;VGE;si;JGCXCUFI;;no;come sta!;Sabato;392
+393;28;VAF;no;JGCXCUFI;;no;come sta!;Sabato;393
+394;28;VMX;no;JGCXCUFI;nota;no;come sta;Sabato;394
+395;28;VHE;no;JGCXCUFI;;no;come sta!;Sabato;395
+396;28;VYA;no;JGCXCUFI;;no;come sta!;Sabato;396
+397;28;VUM;no;JGCXCUFI;;no;come sta!;Sabato;397
+398;28;VES;no;JS51B;nota;no;come sta!;Sabato;398
+399;28;VPT;no;JGCXINFI;nota;no;come sta !;Sabato;399
+400;28;VSW;no;JGCXINFI;nota;no;come sta !;Sabato;400
+401;28;VDE;no;JGCXINFI;nota;no;come sta !;Sabato;401
+402;28;VES;no;JGCXINFI;nota;no;come sta !;Sabato;402
+403;28;VFR;no;JGCXINFI;nota;no;come sta !;Sabato;403
+404;28;VBE;no;JGCXINFI;nota;no;come sta !;Sabato;404
+405;28;VAU;no;JGCXINFI;nota;no;come sta !;Sabato;405
+406;28;VNE;no;JGCXINFI;nota;no;come sta !;Sabato;406
+407;28;VUK;no;JGCXINFI;nota;no;come sta !;Sabato;407
+408;28;VCH;si;JGCXINFI;nota: è già previsto nel giornaliero e deve passare solo al sabato;no;come sta !;Sabato;408
+409;28;VSL;no;JGCXINFI;nota;no;come sta !;Sabato;409
+410;28;VAF;no;JGCXINFI;nota;no;come sta !;Sabato;410
+411;28;VMX;no;JGCXINFI;nota;no;come sta !;Sabato;411
+412;28;VHE;no;JGCXINFI;nota;no;come sta !;Sabato;412
+413;28;VYA;no;JGCXINFI;nota;no;come sta !;Sabato;413
+414;28;VUM;no;JGCXINFI;nota;no;come sta !;Sabato;414
+415;28;VCH;no;JFCMIGR;nota;no;come sta !;Sabato;415
+416;28;VCH;no;JGCXINVP;nota;no;come sta !;Sabato;416
+417;25;VAU;no;JFCEFATA;;no;;Job_del_15;417
+418;25;VAU;no;JFCX001A;;no;;Job_del_15;418
+419;25;VAU;no;JFCRAUS;;no;;Job_del_15;419
+420;25;VAU;no;JFCR060;;no;da inizio a fine mese;Job_del_15;420
+421;25;VSL;no;JFCEFATS;;no;;Job_del_15;421
+422;25;VSL;no;JFCX001S;;no;;Job_del_15;422
+423;25;VGE;si;JFCX01G1;;no;;Job_del_15;423
+424;20;VGE;si;JFAVBTFG;;no;;Job_del_15;424
+425;25;VGE;si;JFCX01G2;;no;;Job_del_15;425
+426;20;VGE;si;JFAVBTFG;;no;;Job_del_15;426
+427;25;VGE;si;JFCX01G3;;no;;Job_del_15;427
+428;25;VAF;no;JFCEFAAF;;no;;Job_del_15;428
+429;25;VAF;no;JFCX01AF;;no;;Job_del_15;429
+430;29;VHK;no;JIIXITHK;;no;;Job_del_15;430
+431;25;VSW;no;JFCEFATW;;no;;Job_del_10_e_20;431
+432;25;VSW;no;JFCX001W;;no;;Job_del_10_e_20;432
+433;20;VSW;no;JFAVBTFA;;no;;Job_del_10_e_20;433
+434;25;VSW;no;JFCEFAT3;;no;;Job_del_10_e_20;434
+435;25;VSW;no;JFCX0013;;no;;Job_del_10_e_20;435
+436;20;VSW;no;JFAVBTFA;;no;;Job_del_10_e_20;436
+437;25;VSW;no;JFCEFATK;;no;;Job_del_10_e_20;437
+438;25;VSW;no;JFCX001K;;no;;Job_del_10_e_20;438
+439;20;VSW;no;JFAVBTFA;;no;;Job_del_10_e_20;439
+440;25;VSW;no;JFCEFATV;;no;;Job_del_10_e_20;440
+441;25;VSW;no;JFCX001V;;no;;Job_del_10_e_20;441
+442;20;VSW;no;JFAVBTFA;;no;;Job_del_10_e_20;442
+443;25;VSW;no;JFCEFAT4;;no;;Job_del_10_e_20;443
+444;25;VSW;no;JFCX0014;;no;;Job_del_10_e_20;444
+445;20;VSW;no;JFAVBTFA;;no;;Job_del_10_e_20;445
+446;25;VSW;no;JFCEFAT5;;no;;Job_del_10_e_20;446
+447;25;VSW;no;JFCX0015;;no;;Job_del_10_e_20;447
+448;20;VSW;no;JFAVBTFA;;no;;Job_del_10_e_20;448
+449;25;VSW;no;JFCEFAT6;;no;;Job_del_10_e_20;449
+450;25;VSW;no;JFCX0016;;no;;Job_del_10_e_20;450
+451;25;VSW;no;JFCRSWE;;no;;Job_del_10_e_20;451
+452;25;VDE;no;JMVEM0PS;;no;;FineMese;452
+453;25;VDE;no;JFCEFATD;;no;;FineMese;453
+454;25;VDE;no;JFCX001D;;no;;FineMese;454
+455;25;VDE;no;JTRXFIFU;;no;;FineMese;455
+456;25;VES;no;JMVEPSNF;;no;;FineMese;456
+457;25;VES;no;JFCEFATE;;no;;FineMese;457
+458;25;VES;no;JFCX001E;;no;;FineMese;458
+459;20;VES;no;JFAVBTFA;;no;;FineMese;459
+460;25;VES;no;JFCEFAE1;;no;;FineMese;460
+461;25;VES;no;JFCX01E1;;no;;FineMese;461
+462;25;VSW;no;JMVEM0SW;;no;;FineMese;462
+463;25;VSW;no;JFCEFATW;;no;;FineMese;463
+464;25;VSW;no;JFCX001W;;no;;FineMese;464
+465;20;VSW;no;JFAVBTFA;;no;;FineMese;465
+466;25;VSW;no;JFCEFAT3;;no;;FineMese;466
+467;25;VSW;no;JFCX0013;;no;;FineMese;467
+468;20;VSW;no;JFAVBTFA;;no;;FineMese;468
+469;25;VSW;no;JFCEFATK;;no;;FineMese;469
+470;25;VSW;no;JFCX001K;;no;;FineMese;470
+471;20;VSW;no;JFAVBTFA;;no;;FineMese;471
+472;25;VSW;no;JFCEFATV;;no;;FineMese;472
+473;25;VSW;no;JFCX001V;;no;;FineMese;473
+474;20;VSW;no;JFAVBTFA;;no;;FineMese;474
+475;25;VSW;no;JFCEFAT4;;no;;FineMese;475
+476;25;VSW;no;JFCX0014;;no;;FineMese;476
+477;20;VSW;no;JFAVBTFA;;no;;FineMese;477
+478;25;VSW;no;JFCEFAT5;;no;;FineMese;478
+479;25;VSW;no;JFCX0015;;no;;FineMese;479
+480;20;VSW;no;JFAVBTFA;;no;;FineMese;480
+481;25;VSW;no;JFCEFAT6;;no;;FineMese;481
+482;25;VSW;no;JFCX0016;;no;;FineMese;482
+483;25;VFR;no;JMVEPSNF;;no;;FineMese;483
+484;25;VFR;no;JFCEFATF;;no;;FineMese;484
+485;25;VFR;no;JFCX001F;;no;;FineMese;485
+486;25;VFR;no;JTRXFIFU;;no;;FineMese;486
+487;25;VBE;no;JMVEPSNF;;no;;FineMese;487
+488;25;VBE;no;JFCEFATB;;no;;FineMese;488
+489;25;VBE;no;JFCX001B;;no;;FineMese;489
+490;25;VHK;no;JFCX001H;;no;;FineMese;490
+491;25;VAU;no;JMVEM0PS;;no;;FineMese;491
+492;25;VAU;no;JFCEFATA;;no;;FineMese;492
+493;25;VAU;no;JFCX001A;;no;;FineMese;493
+494;25;VNE;no;JMVEPSNF;;no;;FineMese;494
+495;25;VNE;no;JFCEFATN;;no;;FineMese;495
+496;25;VNE;no;JFCX001N;;no;;FineMese;496
+497;25;VPT;no;JMVEPSNF;;no;;FineMese;497
+498;25;VPT;no;JFCEFATP;;no;;FineMese;498
+499;25;VPT;no;JFCX001P;;no;;FineMese;499
+500;25;VUK;no;JFCEFATU;;no;;FineMese;500
+501;25;VUK;no;JFCX001U;;no;;FineMese;501
+502;25;VUK;no;JTRXFIFU;;no;;FineMese;502
+503;25;VCH;no;JMVEM0PS;;no;;FineMese;503
+504;25;VCH;no;JFCEFATC;;no;;FineMese;504
+505;25;VCH;no;JFCX001C;;no;;FineMese;505
+506;25;VCH;no;JFCEPCOP;nota;no;come sta;FineMese;506
+507;25;VSL;no;JMVEM0PS;;no;;FineMese;507
+508;25;VSL;no;JMVENEGA;;no;;FineMese;508
+509;25;VSL;no;JFCEFATS;;no;;FineMese;509
+510;25;VSL;no;JFCX001S;;no;;FineMese;510
+511;25;VSL;no;JTRXFIFO;;no;;FineMese;511
+512;25;VHE;no;JFCEFATX;;no;data giorno - 010180 - data giorno;FineMese;512
+513;25;VAF;no;JMVEM0PS;;no;;FineMese;513
+514;25;VAF;no;JFCEFAAF;;no;;FineMese;514
+515;25;VAF;no;JFCX01AF;;no;;FineMese;515
+516;25;VAF;no;JTRXFIAF;;no;;FineMese;516
+517;25;VMX;no;JTRXFIFM;;no;;FineMese;517
+518;25;VYA;no;JFCX001Y;;no;;FineMese;518
+519;23;VDE;no;JTCBCONF;;no;;UltimoGiorno;519
+520;23;VES;no;JTCBCONF;;no;;UltimoGiorno;520
+521;23;VSW;no;JTCBCONF;;no;;UltimoGiorno;521
+522;23;VFR;no;JTCBCONF;;no;;UltimoGiorno;522
+523;23;VBE;no;JTCBCONF;;no;;UltimoGiorno;523
+524;23;VHK;no;JTCBCONF;;no;;UltimoGiorno;524
+525;23;VAU;no;JTCBCONF;;no;;UltimoGiorno;525
+526;23;VNE;no;JTCBCONF;;no;;UltimoGiorno;526
+527;23;VPT;no;JTCBCONF;;no;;UltimoGiorno;527
+528;23;VUK;no;JTCBCONF;;no;;UltimoGiorno;528
+529;23;VCH;no;JTCBCONF;;no;;UltimoGiorno;529
+530;23;VSL;no;JTCBCONF;;no;;UltimoGiorno;530
+531;23;VGE;no;JTCBCONF;;no;;UltimoGiorno;531
+532;23;VAF;no;JTCBCONF;;no;;UltimoGiorno;532
+533;23;VMX;no;JTCBCONF;;no;;UltimoGiorno;533
+534;23;VHE;no;JTCBCONF;;no;;UltimoGiorno;534
+535;23;VYA;no;JTCBCONF;;no;;UltimoGiorno;535
+536;23;VUM;no;JTCBCONF;;no;;UltimoGiorno;536
+537;25;VDE;no;JACE010;;no;;UltimoGiorno;537
+538;25;VES;no;JACE010;;no;;UltimoGiorno;538
+539;25;VSW;no;JACE010;;no;;UltimoGiorno;539
+540;25;VFR;no;JACE010;;no;;UltimoGiorno;540
+541;25;VBE;no;JACE010;;no;;UltimoGiorno;541
+542;25;VHK;no;JACE010;;no;;UltimoGiorno;542
+543;25;VAU;no;JACE010;;no;;UltimoGiorno;543
+544;25;VNE;no;JACE010;;no;;UltimoGiorno;544
+545;25;VPT;no;JACE010;;no;;UltimoGiorno;545
+546;25;VUK;no;JACE010;;no;;UltimoGiorno;546
+547;25;VCH;no;JACE010;;no;;UltimoGiorno;547
+548;25;VSL;no;JACE010;;no;;UltimoGiorno;548
+549;25;VGE;no;JACE010;;no;;UltimoGiorno;549
+550;25;VAF;no;JACE010;;no;;UltimoGiorno;550
+551;25;VMX;no;JACE010;;no;;UltimoGiorno;551
+552;25;VHE;no;JACE010;;no;;UltimoGiorno;552
+553;25;VYA;no;JACE010;;no;;UltimoGiorno;553
+554;25;VUM;no;JACE010;;no;;UltimoGiorno;554
+555;25;VDE;no;JACE020;;no;;UltimoGiorno;555
+556;25;VES;no;JACE020;;no;;UltimoGiorno;556
+557;25;VSW;no;JACE020;;no;;UltimoGiorno;557
+558;25;VFR;no;JACE020;;no;;UltimoGiorno;558
+559;25;VBE;no;JACE020;;no;;UltimoGiorno;559
+560;25;VHK;no;JACE020;;no;;UltimoGiorno;560
+561;25;VAU;no;JACE020;;no;;UltimoGiorno;561
+562;25;VNE;no;JACE020;;no;;UltimoGiorno;562
+563;25;VPT;no;JACE020;;no;;UltimoGiorno;563
+564;25;VUK;no;JACE020;;no;;UltimoGiorno;564
+565;25;VCH;no;JACE020;;no;;UltimoGiorno;565
+566;25;VSL;no;JACE020;;no;;UltimoGiorno;566
+567;25;VGE;no;JACE020;;no;;UltimoGiorno;567
+568;25;VAF;no;JACE020;;no;;UltimoGiorno;568
+569;25;VMX;no;JACE020;;no;;UltimoGiorno;569
+570;25;VHE;no;JACE020;;no;;UltimoGiorno;570
+571;25;VYA;no;JACE020;;no;;UltimoGiorno;571
+572;25;VUM;no;JACE020;;no;;UltimoGiorno;572
+573;25;VDE;no;JACE030;;no;;UltimoGiorno;573
+574;25;VES;no;JACE030;;no;;UltimoGiorno;574
+575;25;VSW;no;JACE030;;no;;UltimoGiorno;575
+576;25;VFR;no;JACE030;;no;;UltimoGiorno;576
+577;25;VBE;no;JACE030;;no;;UltimoGiorno;577
+578;25;VHK;no;JACE030;;no;;UltimoGiorno;578
+579;25;VAU;no;JACE030;;no;;UltimoGiorno;579
+580;25;VNE;no;JACE030;;no;;UltimoGiorno;580
+581;25;VPT;no;JACE030;;no;;UltimoGiorno;581
+582;25;VUK;no;JACE030;;no;;UltimoGiorno;582
+583;25;VCH;no;JACE030;;no;;UltimoGiorno;583
+584;25;VSL;no;JACE030;;no;;UltimoGiorno;584
+585;25;VGE;no;JACE030;;no;;UltimoGiorno;585
+586;25;VAF;no;JACE030;;no;;UltimoGiorno;586
+587;25;VMX;no;JACE030;;no;;UltimoGiorno;587
+588;25;VHE;no;JACE030;;no;;UltimoGiorno;588
+589;25;VYA;no;JACE030;;no;;UltimoGiorno;589
+590;25;VUM;no;JACE030;;no;;UltimoGiorno;590
+591;25;VDE;no;JPCXCOM;;no;;UltimoGiorno;591
+592;25;VES;no;JPCXCOM;;no;;UltimoGiorno;592
+593;25;VSW;no;JPCXCOM;;no;;UltimoGiorno;593
+594;25;VFR;no;JPCXCOM;;no;;UltimoGiorno;594
+595;25;VBE;no;JPCXCOM;;no;;UltimoGiorno;595
+596;25;VHK;no;JPCXCOM;;no;;UltimoGiorno;596
+597;25;VAU;no;JPCXCOM;;no;;UltimoGiorno;597
+598;25;VNE;no;JPCXCOM;;no;;UltimoGiorno;598
+599;25;VPT;no;JPCXCOM;;no;;UltimoGiorno;599
+600;25;VUK;no;JPCXCOM;;no;;UltimoGiorno;600
+601;25;VCH;no;JPCXCOM;;no;;UltimoGiorno;601
+602;25;VSL;no;JPCXCOM;;no;;UltimoGiorno;602
+603;25;VGE;no;JPCXCOM;;no;;UltimoGiorno;603
+604;25;VAF;no;JPCXCOM;;no;;UltimoGiorno;604
+605;25;VMX;no;JPCXCOM;;no;;UltimoGiorno;605
+606;25;VHE;no;JPCXCOM;;no;;UltimoGiorno;606
+607;25;VYA;no;JPCXCOM;;no;;UltimoGiorno;607
+608;25;VUM;no;JPCXCOM;;no;;UltimoGiorno;608
+609;25;VDE;no;JPCXCOMV;;no;;UltimoGiorno;609
+610;25;VES;no;JPCXCOMV;;no;;UltimoGiorno;610
+611;25;VSW;no;JPCXCOMV;;no;;UltimoGiorno;611
+612;25;VFR;no;JPCXCOMV;;no;;UltimoGiorno;612
+613;25;VBE;no;JPCXCOMV;;no;;UltimoGiorno;613
+614;25;VHK;no;JPCXCOMV;;no;;UltimoGiorno;614
+615;25;VAU;no;JPCXCOMV;;no;;UltimoGiorno;615
+616;25;VNE;no;JPCXCOMV;;no;;UltimoGiorno;616
+617;25;VPT;no;JPCXCOMV;;no;;UltimoGiorno;617
+618;25;VUK;no;JPCXCOMV;;no;;UltimoGiorno;618
+619;25;VCH;no;JPCXCOMV;;no;;UltimoGiorno;619
+620;25;VSL;no;JPCXCOMV;;no;;UltimoGiorno;620
+621;25;VGE;no;JPCXCOMV;;no;;UltimoGiorno;621
+622;25;VAF;no;JPCXCOMV;;no;;UltimoGiorno;622
+623;25;VMX;no;JPCXCOMV;;no;;UltimoGiorno;623
+624;25;VHE;no;JPCXCOMV;;no;;UltimoGiorno;624
+625;25;VYA;no;JPCXCOMV;;no;;UltimoGiorno;625
+626;25;VUM;no;JPCXCOMV;;no;;UltimoGiorno;626
+627;25;VDE;no;JPCXORDF;;no;;UltimoGiorno;627
+628;25;VES;no;JPCXORDF;;no;;UltimoGiorno;628
+629;25;VSW;no;JPCXORDF;;no;;UltimoGiorno;629
+630;25;VFR;no;JPCXORDF;;no;;UltimoGiorno;630
+631;25;VBE;no;JPCXORDF;;no;;UltimoGiorno;631
+632;25;VHK;no;JPCXORDF;;no;;UltimoGiorno;632
+633;25;VAU;no;JPCXORDF;;no;;UltimoGiorno;633
+634;25;VNE;no;JPCXORDF;;no;;UltimoGiorno;634
+635;25;VPT;no;JPCXORDF;;no;;UltimoGiorno;635
+636;25;VUK;no;JPCXORDF;;no;;UltimoGiorno;636
+637;25;VCH;no;JPCXORDF;;no;;UltimoGiorno;637
+638;25;VSL;no;JPCXORDF;;no;;UltimoGiorno;638
+639;25;VGE;no;JPCXORDF;;no;;UltimoGiorno;639
+640;25;VAF;no;JPCXORDF;;no;;UltimoGiorno;640
+641;25;VMX;no;JPCXORDF;;no;;UltimoGiorno;641
+642;25;VHE;no;JPCXORDF;;no;;UltimoGiorno;642
+643;25;VYA;no;JPCXORDF;;no;;UltimoGiorno;643
+644;25;VUM;no;JPCXORDF;;no;;UltimoGiorno;644
+645;25;VDE;no;JPCXFAT;;no;;UltimoGiorno;645
+646;25;VES;no;JPCXFAT;;no;;UltimoGiorno;646
+647;25;VSW;no;JPCXFAT;;no;;UltimoGiorno;647
+648;25;VFR;no;JPCXFAT;;no;;UltimoGiorno;648
+649;25;VBE;no;JPCXFAT;;no;;UltimoGiorno;649
+650;25;VHK;no;JPCXFAT;;no;;UltimoGiorno;650
+651;25;VAU;no;JPCXFAT;;no;;UltimoGiorno;651
+652;25;VNE;no;JPCXFAT;;no;;UltimoGiorno;652
+653;25;VPT;no;JPCXFAT;;no;;UltimoGiorno;653
+654;25;VUK;no;JPCXFAT;;no;;UltimoGiorno;654
+655;25;VCH;no;JPCXFAT;;no;;UltimoGiorno;655
+656;25;VSL;no;JPCXFAT;;no;;UltimoGiorno;656
+657;25;VGE;no;JPCXFAT;;no;;UltimoGiorno;657
+658;25;VAF;no;JPCXFAT;;no;;UltimoGiorno;658
+659;25;VMX;no;JPCXFAT;;no;;UltimoGiorno;659
+660;25;VHE;no;JPCXFAT;;no;;UltimoGiorno;660
+661;25;VYA;no;JPCXFAT;;no;;UltimoGiorno;661
+662;25;VUM;no;JPCXFAT;;no;;UltimoGiorno;662
+663;25;VDE;no;JPCXSVE;;no;;UltimoGiorno;663
+664;25;VES;no;JPCXSVE;;no;;UltimoGiorno;664
+665;25;VSW;no;JPCXSVE;;no;;UltimoGiorno;665
+666;25;VFR;no;JPCXSVE;;no;;UltimoGiorno;666
+667;25;VBE;no;JPCXSVE;;no;;UltimoGiorno;667
+668;25;VHK;no;JPCXSVE;;no;;UltimoGiorno;668
+669;25;VAU;no;JPCXSVE;;no;;UltimoGiorno;669
+670;25;VNE;no;JPCXSVE;;no;;UltimoGiorno;670
+671;25;VPT;no;JPCXSVE;;no;;UltimoGiorno;671
+672;25;VUK;no;JPCXSVE;;no;;UltimoGiorno;672
+673;25;VCH;no;JPCXSVE;;no;;UltimoGiorno;673
+674;25;VSL;no;JPCXSVE;;no;;UltimoGiorno;674
+675;25;VGE;no;JPCXSVE;;no;;UltimoGiorno;675
+676;25;VAF;no;JPCXSVE;;no;;UltimoGiorno;676
+677;25;VMX;no;JPCXSVE;;no;;UltimoGiorno;677
+678;25;VHE;no;JPCXSVE;;no;;UltimoGiorno;678
+679;25;VYA;no;JPCXSVE;;no;;UltimoGiorno;679
+680;25;VUM;no;JPCXSVE;;no;;UltimoGiorno;680
+681;25;VDE;no;JCQR110;;no;;UltimoGiorno;681
+682;25;VES;no;JCQR110;;no;;UltimoGiorno;682
+683;25;VSW;no;JCQR110;;no;;UltimoGiorno;683
+684;25;VFR;no;JCQR110;;no;;UltimoGiorno;684
+685;25;VBE;no;JCQR110;;no;;UltimoGiorno;685
+686;25;VHK;no;JCQR110;;no;;UltimoGiorno;686
+687;25;VAU;no;JCQR110;;no;;UltimoGiorno;687
+688;25;VNE;no;JCQR110;;no;;UltimoGiorno;688
+689;25;VPT;no;JCQR110;;no;;UltimoGiorno;689
+690;25;VUK;no;JCQR110;;no;;UltimoGiorno;690
+691;25;VCH;no;JCQR110;;no;;UltimoGiorno;691
+692;25;VSL;no;JCQR110;;no;;UltimoGiorno;692
+693;25;VGE;no;JCQR110;;no;;UltimoGiorno;693
+694;25;VAF;no;JCQR110;;no;;UltimoGiorno;694
+695;25;VMX;no;JCQR110;;no;;UltimoGiorno;695
+696;25;VHE;no;JCQR110;;no;;UltimoGiorno;696
+697;25;VYA;no;JCQR110;;no;;UltimoGiorno;697
+698;25;VUM;no;JCQR110;;no;;UltimoGiorno;698
+699;23;VDE;no;JMVB;;no;;UltimoGiorno;699
+700;23;VES;no;JMVB;;no;;UltimoGiorno;700
+701;23;VSW;no;JMVB;;no;;UltimoGiorno;701
+702;23;VFR;no;JMVB;;no;;UltimoGiorno;702
+703;23;VBE;no;JMVB;;no;;UltimoGiorno;703
+704;23;VHK;no;JMVB;;no;;UltimoGiorno;704
+705;23;VAU;no;JMVB;;no;;UltimoGiorno;705
+706;23;VNE;no;JMVB;;no;;UltimoGiorno;706
+707;23;VPT;no;JMVB;;no;;UltimoGiorno;707
+708;23;VUK;no;JMVB;;no;;UltimoGiorno;708
+709;23;VCH;no;JMVB;;no;;UltimoGiorno;709
+710;23;VSL;no;JMVB;;no;;UltimoGiorno;710
+711;23;VGE;no;JMVB;;no;;UltimoGiorno;711
+712;23;VAF;no;JMVB;;no;;UltimoGiorno;712
+713;23;VMX;no;JMVB;;no;;UltimoGiorno;713
+714;23;VHE;no;JMVB;;no;;UltimoGiorno;714
+715;23;VYA;no;JMVB;;no;;UltimoGiorno;715
+716;28;VDE;no;JBIXLCSF;;no;;UltimoGiorno;716
+717;28;VES;no;JBIXLCSF;;no;;UltimoGiorno;717
+718;28;VSW;no;JBIXLCSF;;no;;UltimoGiorno;718
+719;28;VFR;no;JBIXLCSF;;no;;UltimoGiorno;719
+720;28;VBE;no;JBIXLCSF;;no;;UltimoGiorno;720
+721;28;VHK;no;JBIXLCSF;;no;;UltimoGiorno;721
+722;28;VAU;no;JBIXLCSF;;no;;UltimoGiorno;722
+723;28;VNE;no;JBIXLCSF;;no;;UltimoGiorno;723
+724;28;VPT;no;JBIXLCSF;;no;;UltimoGiorno;724
+725;28;VUK;no;JBIXLCSF;;no;;UltimoGiorno;725
+726;28;VCH;no;JBIXLCSF;;no;;UltimoGiorno;726
+727;28;VSL;no;JBIXLCSF;;no;;UltimoGiorno;727
+728;28;VGE;no;JBIXLCSF;;no;;UltimoGiorno;728
+729;28;VAF;no;JBIXLCSF;;no;;UltimoGiorno;729
+730;28;VMX;no;JBIXLCSF;;no;;UltimoGiorno;730
+731;28;VHE;no;JBIXLCSF;;no;;UltimoGiorno;731
+732;28;VYA;no;JBIXLCSF;;no;;UltimoGiorno;732
+733;25;VDE;no;JOCRST1D;;no;;Storici;733
+734;25;VDE;no;JFCRST1D;;no;;Storici;734
+735;25;VES;no;JOCRST1E;;no;;Storici;735
+736;25;VES;no;JFCRST1E;;no;;Storici;736
+737;25;VSW;no;JOCRST1W;;no;;Storici;737
+738;25;VSW;no;JFCRST1W;;no;;Storici;738
+739;25;VFR;no;JOCRST1F;;no;;Storici;739
+740;25;VFR;no;JFCRST1F;;no;;Storici;740
+741;25;VBE;no;JOCRST1B;;no;;Storici;741
+742;25;VBE;no;JFCRST1B;;no;;Storici;742
+743;25;VHK;no;JOCRST1H;;no;;Storici;743
+744;25;VHK;no;JFCRST1H;;no;;Storici;744
+745;25;VAU;no;JOCRST1A;;no;;Storici;745
+746;25;VAU;no;JFCRST1A;;no;;Storici;746
+747;25;VNE;no;JOCRST1N;;no;;Storici;747
+748;25;VNE;no;JFCRST1N;;no;;Storici;748
+749;25;VPT;no;JOCRST1P;;no;;Storici;749
+750;25;VPT;no;JFCRST1P;;no;;Storici;750
+751;25;VUK;no;JOCRST1U;;no;;Storici;751
+752;25;VUK;no;JFCRST1U;;no;;Storici;752
+753;25;VCH;no;JOCRST1C;;no;;Storici;753
+754;25;VCH;no;JFCRST1C;;no;;Storici;754
+755;25;VSL;no;JOCRST1S;;no;;Storici;755
+756;25;VSL;no;JFCRST1S;;no;;Storici;756
+757;25;VGE;no;JOCRST1G;;no;;Storici;757
+758;25;VGE;no;JFCRST1G;;no;;Storici;758
+759;25;VAF;no;JOCRST1K;;no;;Storici;759
+760;25;VAF;no;JFCRST1K;;no;;Storici;760
+761;25;VMX;no;JOCRST1M;;no;;Storici;761
+762;25;VMX;no;JFCRST1M;;no;;Storici;762
+763;25;VHE;no;JOCRST1X;;no;;Storici;763
+764;25;VHE;no;JFCRST1X;;no;;Storici;764
+765;25;VYA;no;JOCRST1Y;;no;;Storici;765
+766;25;VYA;no;JFCRST1Y;;no;come sta!;Storici;766
+767;25;VUM;no;JOCRST1O;;no;;Storici;767
+768;25;VUM;no;JFCRST1O;;no;;Storici;768
