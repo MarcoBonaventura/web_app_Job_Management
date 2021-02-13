@@ -12,6 +12,7 @@ export class ShowJobFilialiComponent implements OnInit {
 
   JobList:any = [];
   JobPageList:any = [];
+  MacroList:any = [];
 
   ModalTitle:string = "";
   ActivateAddEditJobFilialiComp:boolean = false;
@@ -26,10 +27,12 @@ export class ShowJobFilialiComponent implements OnInit {
   JobListWithoutFilter:any = [];
   JobPageWithoutFilter:any = [];
   newPageFilter:any = "";
+  jobMacroFilter:any = "";
 
   ngOnInit(): void {
     this.refreshJobFilialiList();
     this.GetFilialiPages();
+    this.getMacroList();
   }
 
   addClick(item:any){
@@ -79,6 +82,13 @@ export class ShowJobFilialiComponent implements OnInit {
     });
   }
 
+  getMacroList(){
+    this.service.getAllMacroFilialiList().subscribe((data:any)=>{
+      this.MacroList = data;
+      console.log("MacroList: ",this.MacroList);
+    });
+  }
+
   GetFilialiPages(){
     this.service.getAllFilialiPages().subscribe(data=>{
       this.JobPageList = data;
@@ -113,6 +123,17 @@ export class ShowJobFilialiComponent implements OnInit {
       return el.JobID.toString().toLowerCase().includes(JobIdFilter.toString().trim().toLowerCase())&&
       el.JobPage.toString().toLowerCase().includes(newPageFilter.toString().trim().toLowerCase())
     });
+  }
+
+  SwapMacro(){
+    var JobIdFilter = this.JobIdFilter;
+    var jobMacroFilter = this.jobMacroFilter;
+    
+    this.JobList = this.JobListWithoutFilter.filter(function (el:any){
+      return el.JobID.toString().toUpperCase().includes(JobIdFilter.toString().trim().toUpperCase())&&
+      el.Macro.toString().toUpperCase().includes(jobMacroFilter.toString().trim().toUpperCase())
+    });
+    //this.refreshTask();
   }
 
 }

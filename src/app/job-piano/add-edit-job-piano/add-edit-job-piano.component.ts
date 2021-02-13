@@ -1,5 +1,16 @@
 import { Component, OnInit, Input } from '@angular/core';
 import {SharedService} from 'src/app/shared.service';
+import {FormControl, FormGroupDirective, NgForm, Validators} from '@angular/forms';
+import {ErrorStateMatcher} from '@angular/material/core';
+
+/** Error when invalid control is dirty, touched, or submitted. */
+export class MyErrorStateMatcher implements ErrorStateMatcher {
+  isErrorState(control: FormControl | null, form: FormGroupDirective | NgForm | null): boolean {
+    const isSubmitted = form && form.submitted;
+    return !!(control && control.invalid && (control.dirty || control.touched || isSubmitted));
+  }
+}
+
 
 @Component({
   selector: 'app-add-edit-job-piano',
@@ -10,6 +21,16 @@ export class AddEditJobPianoComponent implements OnInit {
   
   constructor(private service:SharedService) {}
   
+  inputNameFormControl = new FormControl('', [
+    Validators.required
+  ]);
+  inputLibFormControl = new FormControl('', [
+    Validators.required
+  ]);
+
+
+  matcher = new MyErrorStateMatcher();
+
   @Input() jobpiano:any;
 
   JobID:string = "";
@@ -94,11 +115,12 @@ export class AddEditJobPianoComponent implements OnInit {
 
     console.log("update job: ", val);
 
-  }
+  } 
 
   getMacroList(){
     this.service.getAllMacroPianoList().subscribe((data:any)=>{
       this.JobMacroList = data;
+      console.log("MacroList: ",this.JobMacroList);
     });
   }
 
@@ -117,6 +139,7 @@ export class AddEditJobPianoComponent implements OnInit {
   getAllPianoPages(){
     this.service.getAllPianoPages().subscribe((data:any)=>{
       this.PianoPages = data;
+      console.log("PageList: ",this.PianoPages);
     });
   }
 

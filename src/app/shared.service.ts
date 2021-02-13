@@ -30,6 +30,10 @@ export class SharedService {
     return this.http.delete(this.APIUrl+'/JobPiano/'+val);
   }
 
+  deleteMultiJobPiano(val:any){
+    return this.http.post(this.APIUrl+'/JobPiano/DeleteMulti/',val);
+  }
+
   getAllJobsPiano():Observable<any[]>{
     return this.http.get<any[]>(this.APIUrl+'/JobPiano/GetAllJobsPiano');
   }
@@ -53,6 +57,8 @@ export class SharedService {
   getJobsPianoByPage(val:any){
     return this.http.get(this.APIUrl+'/JobPiano/GetJobsPianoByPage/'+val);
   }
+
+
 
 
   /** HTTP REQUEST JOB ITALIA */

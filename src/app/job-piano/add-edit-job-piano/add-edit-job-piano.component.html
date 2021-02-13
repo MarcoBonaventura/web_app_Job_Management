@@ -1,91 +1,82 @@
-
-
 <div class="container">
 
   <div class="row">
     
-    <label class="col-md-2 col-form-label">Job Name</label>
-    <div class="col-md-2">
-      <input type="text" class="form-control" [(ngModel)]="JobName" placeholder="Enter Job Name" required>
-    </div>
-    
-    <label class="col-md-auto col-form-label">Macro</label>
-    <div class="col-md-auto">
-      <select class="form-control" [(ngModel)]="Macro">
-        <option *ngFor="let itemData of JobMacroList; let i=index" id="{{itemData}}">
-          {{itemData.MacroVal}}
-        </option>
-      </select>
-    </div>
-    
-    <label class="col-md-auto col-form-label">Lib</label>
-    <div class="col-md-1">
-      <input type="text" class="form-control" [(ngModel)]="Lib" placeholder="Libreria" required>
-    </div>
+    <mat-form-field class="example-jobname-width">
+      <mat-label>Job Name</mat-label>
+      <input type="text" name="JobName" matInput [formControl]="inputNameFormControl"  placeholder="enter a job name" [(ngModel)]="JobName">
+      <mat-error *ngIf="!inputNameFormControl.hasError('required')">
+        Please enter a valid job name
+      </mat-error>
+      <mat-error *ngIf="inputNameFormControl.hasError('required')">
+        job name is <strong>required</strong>
+      </mat-error>
+    </mat-form-field>
+
+    <mat-form-field class="example-macro-width">
+      <mat-select  name="Macro" placeholder="Macro" [(ngModel)]="Macro">
+        <mat-option *ngFor="let itemData of JobMacroList; let i=index" [value]="itemData.Macro">
+          {{itemData.Macro}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field class="example-lib-width">
+      <mat-label>Libreria</mat-label>
+      <input type="number" name="Lib" matInput [formControl]="inputLibFormControl" [(ngModel)]="Lib" placeholder="Lib">
+      <mat-error *ngIf="!inputLibFormControl.hasError('required')">
+        Please enter library
+      </mat-error>
+      <mat-error *ngIf="inputLibFormControl.hasError('required')">
+        library is <strong>required</strong>
+      </mat-error>
+    </mat-form-field>
   
-    <label class="col-md-auto col-form-label">Sospeso?</label>
-    <div class="form-group">
-      <div *ngFor="let itemData of SuspendedOpt; let i=index">
-        <div class="radio">
-          <input type="radio" id="{{itemData}}" name="radio{{i}}" [(ngModel)]="Suspended" [value]="itemData.Suspended" />
-          <label style="margin-left: 2px;;" for="{{itemData}}">{{itemData.Suspended}}</label>    
-        </div>
-      </div>
-    </div>
+    <label class="col-md-auto col-form-label-suspended">Sospeso?</label>
+    <mat-radio-group layout="row" aria-labelledby="suspended-radio-group-label" class="suspended-radio-group" [(ngModel)]="Suspended">
+      <mat-radio-button class="suspended-radio-button" *ngFor="let itemData of SuspendedOpt; let i=index" [value]="itemData.Suspended">
+        {{itemData.Suspended}}
+      </mat-radio-button>
+    </mat-radio-group>
 
-    <!--
-    <label class="col-md-auto col-form-label">Venerdì 2x?</label>
-    <div class="form-group">
-      <div *ngFor="let itemData of FridayJobs; let i=index">
-        <div class="radio">
-          <input type="radio" id="{{itemData}}" name="radio{{i}}" [(ngModel)]="Friday2X" [value]="itemData.Friday2X" />
-          <label for="{{itemData}}">{{itemData.Friday2X}}</label>    
-        </div>
-      </div>
-    </div>
-    -->
+    <label class="col-md-auto col-form-label-friday">Venerdì 2x??</label>
+    <mat-radio-group aria-labelledby="friday-radio-group-label" class="friday-radio-group" [(ngModel)]="Friday2X">
+      <mat-radio-button class="friday-radio-button" *ngFor="let itemData of FridayJobs; let i=index" [value]="itemData.Friday2X">
+        {{itemData.Friday2X}}
+      </mat-radio-button>
+    </mat-radio-group>
 
-    <label class="col-md-auto col-form-label">Pagina</label>
-    <div class="col-md-auto">
-      <select class="form-control" [(ngModel)]="JobPage">
-        <option *ngFor="let itemData of PianoPages">
+    <mat-form-field class="example-page-width">
+      <mat-select  name="Page" placeholder="Pagina libro" [(ngModel)]="JobPage" >
+        <mat-option *ngFor="let itemData of PianoPages" [value]="itemData.JobPage">
           {{itemData.JobPage}}
-        </option>
-      </select>
-    </div>
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
 
   </div>
  
 
   <div class="row">
-      
-      <label class="col-sm-2 col-form-label">Parametri</label>
-      <div class="col-sm-9">
-        <input type="text" class="form-control" [(ngModel)]="Params">
-      </div>
-      <label class="col-sm-2 col-form-label">Descrizione</label>
-      <div class="col-sm-9">
-        <input type="text" class="form-control" [(ngModel)]="Descr">
-      </div>
-      
-      <label class="col-md-2 col-form-label">JobID</label>
-      <div class="col-md-2">
-        <input type="text" class="form-control" [(ngModel)]="JobID">
-      </div>
-      <label class="col-md-2 col-form-label">PRTY</label>
-      <div class="col-md-2">
-        <input type="text" class="form-control" [(ngModel)]="Prty">
-      </div>
 
+    <mat-form-field class="example-full-width">
+      <mat-label>insert job parameters</mat-label>
+      <textarea matInput placeholder="come sta..." [(ngModel)]="Params"></textarea>
+    </mat-form-field>
+
+    <mat-form-field class="example-full-width">
+      <mat-label>insert job description</mat-label>
+      <textarea matInput placeholder="come sta..." [(ngModel)]="Descr"></textarea>
+    </mat-form-field>
+      
   </div>
 </div>
 
-
-<button (click)="addJob()" *ngIf="jobpiano.JobID==0" class="btn btn-primary">
+<button (click)="addJob()" *ngIf="jobpiano.JobID==0" class="btn btn-primary" style="margin-top: 20px;">
     Add
 </button>
 
-<button (click)="updateJob()" *ngIf="jobpiano.JobID!=0" class="btn btn-primary">
+<button (click)="updateJob()" *ngIf="jobpiano.JobID!=0" class="btn btn-primary" style="margin-top: 20px;">
     Update
 </button>
 
