@@ -1,6 +1,6 @@
-# front-end with Angular11 and Material to manage IBM mainframe jobs schedulation, calendar and deployment.
+# front-end with Angular11 and Material
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4 and [Material](https://material.angular.io/)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4 and [Material](https://material.angular.io/) to manage IBM mainframe jobs schedulation, calendar and deployment.
 
 Back-end can be found here: https://github.com/MarcoBonaventura/WebApi
 
