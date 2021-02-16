@@ -1,4 +1,4 @@
-# Angular11
+# front-end with Angular11 and Material
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4 and [Material](https://material.angular.io/)
 
