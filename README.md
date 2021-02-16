@@ -1,6 +1,6 @@
 # Angular11
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4 and Material(https://material.angular.io/). 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4 and [Material](https://material.angular.io/)
 
 Back-end can be found here: https://github.com/MarcoBonaventura/WebApi
 
