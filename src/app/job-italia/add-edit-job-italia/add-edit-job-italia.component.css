@@ -1,0 +1,80 @@
+.cdk-overlay-connected-position-bounding-box {
+    z-index: 10000 !important;
+  }
+  
+  
+  .example-form {
+    min-width: 100%;
+    max-width: 100%;
+    width: 100%;
+  }
+  
+  .example-auto-width {
+    width: auto;
+    margin-right: 40px;
+  }
+  .example-jobname-width {
+    width: 100px;
+    margin-right: 40px;
+  }
+  .example-macro-width {
+    width: 100px;
+    margin-right: 40px;
+  }
+  .example-lib-width {
+    width: 50px;
+    margin-right: 40px;
+  }
+  .example-page-width {
+    width: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  .example-full-width {
+    width: 100%;
+  }
+  
+  .suspended-radio-group {
+    display: inline-flex;
+    flex-direction:row;
+    padding-top: 10px;
+  }
+  
+  .suspended-radio-button {
+    margin: 5px;
+  }
+  
+  .suspended-selected-value {
+    margin: 15px 0;
+  }
+  
+  .friday-radio-group {
+    display: inline-flex;
+    flex-direction:row;
+    padding-top: 10px;
+  }
+  
+  .friday-radio-button {
+    margin: 5px;
+  }
+  
+  .friday-selected-value {
+    margin: 15px 0;
+  }
+  
+  
+  .col-form-label-suspended{
+    margin-top: 15px;
+  }
+  .col-form-label-friday {
+    padding-top: 15px;
+    padding-left: 30px;
+  }
+  
+  .mat-radio-button.mat-accent.mat-radio-checked .mat-radio-outer-circle , .mat-radio-outer-circle {
+    border-color: blue !important;
+  }
+  
+  .mat-radio-button.mat-accent .mat-radio-inner-circle{
+    background-color: blue !important;
+  }

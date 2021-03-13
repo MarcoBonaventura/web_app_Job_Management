@@ -78,6 +78,10 @@ export class SharedService {
     return this.http.delete(this.APIUrl+'/JobItalia/'+val);
   }
 
+  deleteMultiJobItalia(val:any){
+    return this.http.post(this.APIUrl+'/JobItalia/DeleteMulti/',val);
+  }
+
   getAllJobsItalia():Observable<any[]>{
     return this.http.get<any[]>(this.APIUrl+'/JobItalia/GetAllJobsItalia');
   }
@@ -119,6 +123,10 @@ export class SharedService {
 
   deleteJobFiliali(val:any){
     return this.http.delete(this.APIUrl+'/JobFiliali/'+val);
+  }
+
+  deleteMultiJobFiliali(val:any){
+    return this.http.post(this.APIUrl+'/JobFiliali/DeleteMulti/',val);
   }
 
   getAllJobsFiliali():Observable<any[]>{

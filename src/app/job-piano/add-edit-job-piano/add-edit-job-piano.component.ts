@@ -1,7 +1,7 @@
 import { Component, OnInit, Input } from '@angular/core';
-import {SharedService} from 'src/app/shared.service';
-import {FormControl, FormGroupDirective, NgForm, Validators} from '@angular/forms';
-import {ErrorStateMatcher} from '@angular/material/core';
+import { SharedService } from 'src/app/shared.service';
+import { FormControl, FormGroup, FormBuilder, FormGroupDirective, NgForm, Validators} from '@angular/forms';
+import { ErrorStateMatcher } from '@angular/material/core';
 
 /** Error when invalid control is dirty, touched, or submitted. */
 export class MyErrorStateMatcher implements ErrorStateMatcher {
@@ -11,25 +11,28 @@ export class MyErrorStateMatcher implements ErrorStateMatcher {
   }
 }
 
-
 @Component({
   selector: 'app-add-edit-job-piano',
   templateUrl: './add-edit-job-piano.component.html',
-  styleUrls: ['./add-edit-job-piano.component.css']
+  styleUrls: ['./add-edit-job-piano.component.css'],
 })
 export class AddEditJobPianoComponent implements OnInit {
   
   constructor(private service:SharedService) {}
   
-  inputNameFormControl = new FormControl('', [
-    Validators.required
-  ]);
-  inputLibFormControl = new FormControl('', [
-    Validators.required
-  ]);
+  pf = new FormGroup({
+  inputNameFormControl : new FormControl('', [Validators.required, Validators.minLength(3), Validators.maxLength(8)]),
+  inputMacroFormControl : new FormControl('', [Validators.required]),
+  inputLibFormControl : new FormControl('', [Validators.required, Validators.minLength(2), Validators.maxLength(2)]),
+  inputJobPageFormControl : new FormControl('', [Validators.required]),
+  inputSuspendedFormControl : new FormControl('', [Validators.required]),
+  inputFriday2XFormControl : new FormControl('', [Validators.required]),
+  inputDescrFormControl : new FormControl(''),
+  inputParamsFormControl : new FormControl('')
+  });
 
-
-  matcher = new MyErrorStateMatcher();
+  
+  
 
   @Input() jobpiano:any;
 
@@ -50,6 +53,8 @@ export class AddEditJobPianoComponent implements OnInit {
   FridayJobs:any = [];
   PianoPages:any = [];
  
+  
+
   ngOnInit(): void {
     this.loadJobList();
     this.getMacroList();
@@ -58,6 +63,11 @@ export class AddEditJobPianoComponent implements OnInit {
     this.getAllPianoPages();
   }
    
+  onSubmit() {
+    // TODO: Use EventEmitter with form value
+    console.warn(this.pf.value);
+  }
+  
   loadJobList(){
     this.service.getAllJobsPiano().subscribe((data:any)=>{
       this.JobsPianoList = data;

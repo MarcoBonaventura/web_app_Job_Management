@@ -1,5 +1,16 @@
 import { Component, OnInit, Input } from '@angular/core';
-import {SharedService} from 'src/app/shared.service';
+import { SharedService } from 'src/app/shared.service';
+import { FormControl, FormGroup, FormBuilder, FormGroupDirective, NgForm, Validators} from '@angular/forms';
+import { ErrorStateMatcher } from '@angular/material/core';
+
+/** Error when invalid control is dirty, touched, or submitted. */
+export class MyErrorStateMatcher implements ErrorStateMatcher {
+  isErrorState(control: FormControl | null, form: FormGroupDirective | NgForm | null): boolean {
+    const isSubmitted = form && form.submitted;
+    return !!(control && control.invalid && (control.dirty || control.touched || isSubmitted));
+  }
+}
+
 
 @Component({
   selector: 'app-add-edit-job-filiali',
@@ -9,6 +20,17 @@ import {SharedService} from 'src/app/shared.service';
 export class AddEditJobFilialiComponent implements OnInit {
 
   constructor(private service:SharedService) {}
+
+  pf = new FormGroup({
+    inputNameFormControl : new FormControl('', [Validators.required, Validators.minLength(3), Validators.maxLength(8)]),
+    inputMacroFormControl : new FormControl('', [Validators.required]),
+    inputLibFormControl : new FormControl('', [Validators.required, Validators.minLength(2), Validators.maxLength(2)]),
+    inputJobPageFormControl : new FormControl('', [Validators.required]),
+    inputSuspendedFormControl : new FormControl('', [Validators.required]),
+    inputFriday2XFormControl : new FormControl('', [Validators.required]),
+    inputDescrFormControl : new FormControl(''),
+    inputParamsFormControl : new FormControl('')
+    });
 
   @Input() jobfiliali:any;
 
@@ -35,6 +57,11 @@ export class AddEditJobFilialiComponent implements OnInit {
     this.getAllSuspendedOpt();
     this.getAllFridayJobs();
     this.getAllFilialiPages();
+  }
+
+  onSubmit() {
+    // TODO: Use EventEmitter with form value
+    console.warn(this.pf.value);
   }
    
   loadJobList(){

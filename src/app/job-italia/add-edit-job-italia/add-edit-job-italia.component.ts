@@ -1,5 +1,6 @@
 import { Component, OnInit, Input } from '@angular/core';
-import {SharedService} from 'src/app/shared.service';
+import { SharedService } from 'src/app/shared.service';
+import { FormControl, FormGroup, FormBuilder, FormGroupDirective, NgForm, Validators} from '@angular/forms';
 
 @Component({
   selector: 'app-add-edit-job-italia',
@@ -9,6 +10,18 @@ import {SharedService} from 'src/app/shared.service';
 export class AddEditJobItaliaComponent implements OnInit {
 
   constructor(private service:SharedService) {}
+
+  pf = new FormGroup({
+    inputNameFormControl : new FormControl('', [Validators.required, Validators.minLength(3), Validators.maxLength(8)]),
+    inputMacroFormControl : new FormControl('', [Validators.required]),
+    inputLibFormControl : new FormControl('', [Validators.required, Validators.minLength(2), Validators.maxLength(2)]),
+    inputJobPageFormControl : new FormControl('', [Validators.required]),
+    inputSuspendedFormControl : new FormControl('', [Validators.required]),
+    inputFriday2XFormControl : new FormControl('', [Validators.required]),
+    inputDescrFormControl : new FormControl(''),
+    inputParamsFormControl : new FormControl('')
+    });
+
 
   @Input() jobitalia:any;
 
@@ -35,6 +48,11 @@ export class AddEditJobItaliaComponent implements OnInit {
     this.getAllSuspendedOpt();
     this.getAllFridayJobs();
     this.getAllItaliaPages();
+  }
+
+  onSubmit() {
+    // TODO: Use EventEmitter with form value
+    console.warn(this.pf.value);
   }
    
   loadJobList(){
@@ -99,6 +117,7 @@ export class AddEditJobItaliaComponent implements OnInit {
   getMacroList(){
     this.service.getAllMacroItaliaList().subscribe((data:any)=>{
       this.JobMacroList = data;
+      console.log("edit macro list: ",this.JobMacroList);
     });
   }
 

@@ -18,8 +18,13 @@ import { MatCheckboxModule } from '@angular/material/checkbox';
 import { MatSelectModule } from '@angular/material/select';
 import { MatInputModule } from '@angular/material/input';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
+import { MatProgressBarModule } from '@angular/material/progress-bar';
 import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
+import { MatTableModule } from '@angular/material/table';
+import { MatPaginatorModule } from '@angular/material/paginator';
+import { MatExpansionModule } from '@angular/material/expansion';
+
 import { JobItaliaComponent } from './job-italia/job-italia.component';
 import { JobFilialiComponent } from './job-filiali/job-filiali.component';
 import { AddEditJobItaliaComponent } from './job-italia/add-edit-job-italia/add-edit-job-italia.component';
@@ -56,8 +61,12 @@ import { LoaderInterceptor } from './interceptors/loader-interceptors.service';
     MatSelectModule,
     MatInputModule,
     MatProgressSpinnerModule,
+    MatProgressBarModule,
     MatButtonModule,
-    MatIconModule
+    MatIconModule,
+    MatTableModule,
+    MatPaginatorModule,
+    MatExpansionModule
   ],
   providers: [SharedService, LoaderService, { provide: HTTP_INTERCEPTORS, useClass: LoaderInterceptor, multi: true }],
   bootstrap: [AppComponent]

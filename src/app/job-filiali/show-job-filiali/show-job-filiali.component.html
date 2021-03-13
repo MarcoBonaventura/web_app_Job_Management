@@ -1,12 +1,5 @@
 
 
-<!-- Button trigger modal 
-<button type="button" class="btn btn-primary float-right m-2" data-toggle="modal" data-target="#exampleModal" (click)="addClick()">
-    Add Job
-</button>
--->
-  
-<!-- Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
         <div class="modal-content">
@@ -25,22 +18,68 @@
 
 
 <div>
-    <table class="table table-striped">
+    
+    <div class="progress-loader" [hidden]="!display">
+        <div class="loading-spinner">
+            <mat-spinner>
+                
+            </mat-spinner>
+            
+        </div>
+    </div>
+
+    <!--
+    <div class="example-action-buttons">
+        <button mat-button (click)="accordion.openAll()">Expand All</button>
+        <button mat-button (click)="accordion.closeAll()">Collapse All</button>
+    </div>
+    -->
+
+    <mat-paginator #paginator class="paginator"
+        [length]="JobList.length" 
+        [pageSize]="pageSize" 
+        [pageSizeOptions]="[25, 50]">
+        (page)="pageEvent = getPaginatorData($event)">
+    </mat-paginator> 
+
+    <!--
+    <mat-paginator #paginator class="paginator"
+        [length]="JobList.length"
+        [pageSize]=25
+        [pageSizeOptions]="[25, 50]">
+    </mat-paginator>
+    -->
+    
+    <table class="table table-borderless">
         <thead>
             <tr>
-                <th>
+                <th style="justify-content-center">
+                    <button type="button" class="btn btn-light mr-1" style="padding: 5px; margin-bottom:5px;" (click)="deleteMany()" data-backdrop="static" data-keyboard="false">
+                        <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" style="padding-left: 0;">
+                            <path d="M0 0h24v24H0z" fill="none"/>
+                            <path d="M15 16h4v2h-4zm0-8h7v2h-7zm0 4h6v2h-6zM3 18c0 1.1.9 2 2 2h6c1.1 0 2-.9 2-2V8H3v10zM14 5h-3l-1-1H6L5 5H2v2h12z"/>
+                        </svg>
+                    </button> 
+                    
                     <div class="d-flex flex-row"></div>
-                    Priority
+                    <mat-checkbox class="example-margin" style="padding-left: 5px; padding-top: 5px;"
+                        [checked]="allComplete"
+                        [color]="color"
+                        [indeterminate]="someComplete()"
+                        (change)="setAll($event.checked)">
+                    </mat-checkbox>
                 </th>
+                
+                    
                 <th>
                     <div class="d-flex flex-row" style="width: 100%;">
-                        <select [(ngModel)]="jobMacroFilter" class="form-control" (change)="SwapMacro()">
-                            <option></option>
-                            <option *ngFor="let itemData of MacroList;">
-                                {{itemData.MacroVal}}
-                            </option>
-                        </select>
-                        </div>
+                    <select [(ngModel)]="jobMacroFilter" class="form-control" (change)="SwapMacro()">
+                        <option></option>
+                        <option *ngFor="let itemData of MacroList;">
+                            {{itemData.Macro}}
+                        </option>
+                    </select>
+                    </div>
                     <div class="d-flex flex-row" style="padding-top:5px"></div>
                     Macro
                 </th>
@@ -92,56 +131,75 @@
                             <path d="M.102 2.223A3.004 3.004 0 0 0 3.78 5.897l6.341 6.252A3.003 3.003 0 0 0 13 16a3 3 0 1 0-.851-5.878L5.897 3.781A3.004 3.004 0 0 0 2.223.1l2.141 2.142L4 4l-1.757.364L.102 2.223zm13.37 9.019l.528.026.287.445.445.287.026.529L15 13l-.242.471-.026.529-.445.287-.287.445-.529.026L13 15l-.471-.242-.529-.026-.287-.445-.445-.287-.026-.529L11 13l.242-.471.026-.529.445-.287.287-.445.529-.026L13 11l.471.242z"/>
                         </svg>
                     </div>
-                </th>
+                </th>t
+            </tr>
+        </thead>
+    </table>
+    <table class="table table-borderless">
+    <tbody>
+            <tr *ngFor="let dataItem of JobList | slice: lowValue : highValue; let i=index">
+
+                
+
+                <td><mat-checkbox class="mat-check-id" style="padding-left: 5px;" [(ngModel)]="task.subtasks[i+1].completed" (ngModelChange)="updateAllComplete(dataItem.JobID, dataItem.Prty)"></mat-checkbox></td>
+                
+                <mat-accordion class="example-headers-align" multi>
+                    <mat-expansion-panel>
+                        <mat-expansion-panel-header>
+                            
+                            <mat-panel-title>
+                                <td>{{dataItem.Macro}}</td>
+                                <td>{{dataItem.JobName}}</td>
+                                <td>{{dataItem.Lib}}</td>
+                                <td><mat-icon *ngIf="dataItem.Suspended=='si'">disabled_by_default</mat-icon></td>
+                                <td><mat-icon *ngIf="dataItem.Friday2X=='si'">filter_2</mat-icon></td>
+                                <td>{{dataItem.JobPage}}</td>
+                            </mat-panel-title>
+
+                            <mat-panel-description class="d-flex flex-row justify-content-end" style="padding-top: 10px;">
+                                <mat-icon>info</mat-icon>
+                            </mat-panel-description>
+                            
+                    </mat-expansion-panel-header>
+                    
+                        
+                            <td class="d-inline-flex flex-row col-md-10 justify-content-start">
+                                {{dataItem.Params}}
+                            </td>
+
+                            <td class="d-inline-flex flex-row col-md-2 justify-content-end">
+                                    
+                                <button type="button" class="btn btn-light mr-1 justify-content-center" data-toggle="modal" data-target="#exampleModal"
+                                    (click)="editClick(dataItem)" data-backdrop="static" data-keyboard="false">
+                                    <mat-icon>edit</mat-icon>
+                                </button>
+                                
+                                <button type="button" class="btn btn-light mr-1 justify-content-center" (click)="deleteClick(dataItem)">
+                                    <mat-icon>delete</mat-icon>
+                                </button>
+                                
+                            </td>
+
+                            <td class="d-inline-flex flex-row col-md-10 justify-content-start">
+                                {{dataItem.Descr}}
+                            </td>
+
+                            
+                        
+                    </mat-expansion-panel>
+                </mat-accordion>
+                
+                <td style="padding-top: 0;">
+                        <button type="button" class="btn btn-light mr-1 justify-content-end" data-toggle="modal" data-target="#exampleModal" (click)="addClick(dataItem)">
+                            <mat-icon>add</mat-icon>
+                        </button>
+                </td>
+
+                
+                
             </tr>
             
-        </thead>
-        <tbody>
-            <tr *ngFor="let dataItem of JobList">
-                <td>{{dataItem.Prty}}</td>
-                <td>{{dataItem.Macro}}</td>
-                <td>{{dataItem.JobName}}</td>
-                <td>{{dataItem.Lib}}</td>
-                <td>
-                    <svg *ngIf="dataItem.Suspended=='si'" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-octagon-fill" viewBox="0 0 16 16">
-                        <path d="M11.46.146A.5.5 0 0 0 11.107 0H4.893a.5.5 0 0 0-.353.146L.146 4.54A.5.5 0 0 0 0 4.893v6.214a.5.5 0 0 0 .146.353l4.394 4.394a.5.5 0 0 0 .353.146h6.214a.5.5 0 0 0 .353-.146l4.394-4.394a.5.5 0 0 0 .146-.353V4.893a.5.5 0 0 0-.146-.353L11.46.146zm-6.106 4.5L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 1 1 .708-.708z"/>
-                    </svg>
-                </td>
-                <td>
-                    <svg *ngIf="dataItem.Friday2X=='si'" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-square" viewBox="0 0 16 16">
-                        <path d="M14 1a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h12zM2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2z"/>
-                        <path d="M10.97 4.97a.75.75 0 0 1 1.071 1.05l-3.992 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.235.235 0 0 1 .02-.022z"/>
-                    </svg>
-                <td>
-                    {{dataItem.JobPage}}
-                </td>
-                <td>
-                    <div class="d-flex flex-row justify-content-end">
-                        
-                        <button type="button" class="btn btn-light mr-1 justify-content-center" data-toggle="modal" data-target="#exampleModal"
-                            (click)="editClick(dataItem)" data-backdrop="static" data-keyboard="false">
-                            <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-pencil-square" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456l-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z"/>
-                                <path fill-rule="evenodd" d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5v11z"/>
-                            </svg>
-                        </button>
-                        
-                        <button type="button" class="btn btn-light mr-1 justify-content-center" (click)="deleteClick(dataItem)">
-                            <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-trash-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" d="M2.5 1a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1H3v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V4h.5a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H10a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1H2.5zm3 4a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 .5-.5zM8 5a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7A.5.5 0 0 1 8 5zm3 .5a.5.5 0 0 0-1 0v7a.5.5 0 0 0 1 0v-7z"/>
-                            </svg>
-                        </button>
-                        
-                        <button type="button" class="btn btn-light mr-1 justify-content-center" data-toggle="modal" data-target="#exampleModal" (click)="addClick(dataItem)">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus-circle" viewBox="0 0 16 16">
-                                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-                                <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z"/>
-                            </svg>
-                        </button>
-
-                    </div>
-                </td>
-            </tr>
+            
         </tbody>
     </table>
 </div>

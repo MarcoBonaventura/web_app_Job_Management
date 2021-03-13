@@ -1,83 +1,85 @@
+
+<form [formGroup]="pf" (ngSubmit)="onSubmit()" class="form">
 <div class="container">
 
   <div class="row">
     
     <mat-form-field class="example-jobname-width">
       <mat-label>Job Name</mat-label>
-      <input type="text" name="JobName" matInput [formControl]="inputNameFormControl"  placeholder="enter a job name" [(ngModel)]="JobName">
-      <mat-error *ngIf="!inputNameFormControl.hasError('required')">
-        Please enter a valid job name
-      </mat-error>
-      <mat-error *ngIf="inputNameFormControl.hasError('required')">
+      <input type="text" matInput formControlName="inputNameFormControl" placeholder="enter a job name" [(ngModel)]="JobName">
+      <mat-error *ngIf="pf.get('inputNameFormControl').invalid" [ngClass]="'error'">
         job name is <strong>required</strong>
       </mat-error>
     </mat-form-field>
 
     <mat-form-field class="example-macro-width">
-      <mat-select  name="Macro" placeholder="Macro" [(ngModel)]="Macro">
+      <mat-select placeholder="macro" formControlName="inputMacroFormControl" [(ngModel)]="Macro">
         <mat-option *ngFor="let itemData of JobMacroList; let i=index" [value]="itemData.Macro">
           {{itemData.Macro}}
         </mat-option>
       </mat-select>
+      <mat-error *ngIf="pf.get('inputMacroFormControl').invalid" [ngClass]="'error'">
+        macro is <strong>required</strong>
+      </mat-error>
     </mat-form-field>
 
     <mat-form-field class="example-lib-width">
       <mat-label>Libreria</mat-label>
-      <input type="number" name="Lib" matInput [formControl]="inputLibFormControl" [(ngModel)]="Lib" placeholder="Lib">
-      <mat-error *ngIf="!inputLibFormControl.hasError('required')">
-        Please enter library
-      </mat-error>
-      <mat-error *ngIf="inputLibFormControl.hasError('required')">
-        library is <strong>required</strong>
-      </mat-error>
+      <input type="number" matInput formControlName="inputLibFormControl" [(ngModel)]="Lib" placeholder="library" maxlength="2">
+      <mat-error *ngIf="pf.get('inputLibFormControl').invalid" [ngClass]="'error'"></mat-error>
     </mat-form-field>
   
     <label class="col-md-auto col-form-label-suspended">Sospeso?</label>
-    <mat-radio-group layout="row" aria-labelledby="suspended-radio-group-label" class="suspended-radio-group" [(ngModel)]="Suspended">
+    <mat-radio-group layout="row" formControlName="inputSuspendedFormControl" aria-labelledby="suspended-radio-group-label" class="suspended-radio-group" [(ngModel)]="Suspended">
       <mat-radio-button class="suspended-radio-button" *ngFor="let itemData of SuspendedOpt; let i=index" [value]="itemData.Suspended">
         {{itemData.Suspended}}
       </mat-radio-button>
     </mat-radio-group>
 
     <label class="col-md-auto col-form-label-friday">Venerdì 2x??</label>
-    <mat-radio-group aria-labelledby="friday-radio-group-label" class="friday-radio-group" [(ngModel)]="Friday2X">
+    <mat-radio-group aria-labelledby="friday-radio-group-label" formControlName="inputFriday2XFormControl" class="friday-radio-group" [(ngModel)]="Friday2X">
       <mat-radio-button class="friday-radio-button" *ngFor="let itemData of FridayJobs; let i=index" [value]="itemData.Friday2X">
         {{itemData.Friday2X}}
       </mat-radio-button>
     </mat-radio-group>
 
     <mat-form-field class="example-page-width">
-      <mat-select  name="Page" placeholder="Pagina libro" [(ngModel)]="JobPage" >
+      <mat-select  placeholder="Pagina libro" formControlName="inputJobPageFormControl" [(ngModel)]="JobPage">
         <mat-option *ngFor="let itemData of PianoPages" [value]="itemData.JobPage">
           {{itemData.JobPage}}
         </mat-option>
       </mat-select>
+      <mat-error *ngIf="pf.get('inputJobPageFormControl').invalid" [ngClass]="'error'">
+        job page is <strong>required</strong>
+      </mat-error>
     </mat-form-field>
 
   </div>
- 
 
+  <br>
   <div class="row">
 
     <mat-form-field class="example-full-width">
       <mat-label>insert job parameters</mat-label>
-      <textarea matInput placeholder="come sta..." [(ngModel)]="Params"></textarea>
+      <textarea matInput placeholder="come sta..." [(ngModel)]="Params" formControlName="inputParamsFormControl"></textarea>
     </mat-form-field>
 
     <mat-form-field class="example-full-width">
       <mat-label>insert job description</mat-label>
-      <textarea matInput placeholder="come sta..." [(ngModel)]="Descr"></textarea>
+      <textarea matInput placeholder="come sta..." [(ngModel)]="Descr" formControlName="inputDescrFormControl"></textarea>
     </mat-form-field>
       
   </div>
 </div>
 
-<button (click)="addJob()" *ngIf="jobpiano.JobID==0" class="btn btn-primary" style="margin-top: 20px;">
-    Add
-</button>
 
-<button (click)="updateJob()" *ngIf="jobpiano.JobID!=0" class="btn btn-primary" style="margin-top: 20px;">
-    Update
-</button>
+  
+  <button type="submit" (click)="addJob()" *ngIf="jobpiano.JobID==0" [disabled]="!pf.valid" class="btn btn-primary" style="margin-top: 20px;">
+      Add
+  </button>
+  
+  <button type="submit" (click)="updateJob()" *ngIf="jobpiano.JobID!=0" [disabled]="!pf.valid" class="btn btn-primary" style="margin-top: 20px;">
+      Update
+  </button>
 
-
+</form>

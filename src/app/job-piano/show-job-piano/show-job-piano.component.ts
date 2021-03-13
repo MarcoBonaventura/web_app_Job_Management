@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import {SharedService} from 'src/app/shared.service';
+import { SharedService } from 'src/app/shared.service';
 import { LoaderService } from '../../services/loader.service';
 import { HttpClient } from '@angular/common/http';
 
@@ -14,10 +14,7 @@ export interface Task {
   selector: 'app-show-job-piano',
   templateUrl: './show-job-piano.component.html',
   styleUrls: ['./show-job-piano.component.css']
-  //template: '<child-comp (closeModal)="refreshJobPianoList($event)"></child-comp>'
 })
-
-
 
 export class ShowJobPianoComponent implements OnInit {
 
@@ -160,6 +157,10 @@ export class ShowJobPianoComponent implements OnInit {
       this.JobPageList = data;
     });
   }
+
+
+  
+  /** FILTERS SECTION */
 
   FilterFn(){
     var JobIdFilter = this.JobIdFilter;

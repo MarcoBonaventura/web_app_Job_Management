@@ -1,3 +1,60 @@
 .spazio {
     height: 5px;
+    width: 5px;
+}
+
+/* my-loader.component.css */
+.loading-spinner{    
+    background-color: #0000001f;
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    bottom: 0;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+}
+
+.loading-spinner img{
+    align-self: end;
+}
+
+.loading-message{
+    text-align: center;
+    align-self: start;
+}
+
+.mat-spinner {
+    margin-top: 100%;
+  }
+
+.example-action-buttons {
+padding-bottom: 20px;
+}
+
+
+.exp-panel {
+    width: 100%;
+}
+
+
+::ng-deep .parametersPanel .mat-expansion-panel-body {
+    width: 100%;
+}
+
+.mat-expansion-panel-header {
+    width: 100%;
+}
+
+.example-headers-align .mat-form-field + .mat-form-field {
+
+width: 100%;
+}
+
+
+#spacer {
+    height: 10px;
+    width: 100%;
 }
