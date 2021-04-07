@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4 and [Material](https://material.angular.io/) to manage IBM mainframe jobs schedulation, calendar and deployment.
 
+For this project ever component has been designed with a different Angular Components:
+- Job Piano: standard top/down list view
+- Job Italia: Angular Material Table https://material.angular.io/components/table/overview
+- Job Filiali: Angular Material Expansion Panel https://material.angular.io/components/expansion/overview
+
+
 Back-end can be found here: https://github.com/MarcoBonaventura/WebApi
 
 
