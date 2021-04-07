@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 For this project ever component has been designed with a different Angular Components:
 - Job Piano: standard top-down list view
-- Job Italia: Angular **Material Table** https://material.angular.io/components/table/overview
+- Job Italia: Angular [**Material Table**](https://material.angular.io/components/table/overview)
 - Job Filiali: Angular **Material Expansion Panel** https://material.angular.io/components/expansion/overview
 
 
